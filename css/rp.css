@@ -1,0 +1,105 @@
+@font-face {  font-family: 'Playfair Display';  font-style: 'italic'; font-weight:'900' src: url('fonts/playfair/PlayfairDisplay-BlackItalic.ttf'); }
+@font-face {  font-family: 'Playfair Display';  font-style: 'normal'; font-weight:'900' src: url('fonts/playfair/PlayfairDisplay-Black.ttf'); }
+@font-face {  font-family: 'Playfair Display';  font-style: 'italic'; font-weight:'700' src: url('fonts/playfair/PlayfairDisplay-BoldItalic.ttf'); }
+@font-face {  font-family: 'Playfair Display';  font-style: 'normal'; font-weight:'700' src: url('fonts/playfair/PlayfairDisplay-Bold.ttf'); }
+@font-face {  font-family: 'Playfair Display';  font-style: 'italic'; font-weight:'800' src: url('fonts/playfair/PlayfairDisplay-ExtraBoldItalic.ttf'); }
+@font-face {  font-family: 'Playfair Display';  font-style: 'normal'; font-weight:'800' src: url('fonts/playfair/PlayfairDisplay-ExtraBold.ttf'); }
+@font-face {  font-family: 'Playfair Display';  font-style: 'italic'; font-weight:'400' src: url('fonts/playfair/PlayfairDisplay-Italic.ttf'); }
+@font-face {  font-family: 'Playfair Display';  font-style: 'italic'; font-weight:'500' src: url('fonts/playfair/PlayfairDisplay-MediumItalic.ttf'); }
+@font-face {  font-family: 'Playfair Display';  font-style: 'normal'; font-weight:'500' src: url('fonts/playfair/PlayfairDisplay-Medium.ttf'); }
+@font-face {  font-family: 'Playfair Display';  font-style: 'normal'; font-weight:'400' src: url('fonts/playfair/PlayfairDisplay-Regular.ttf'); }
+@font-face {  font-family: 'Playfair Display';  font-style: 'italic'; font-weight:'600' src: url('fonts/playfair/PlayfairDisplay-SemiBoldItalic.ttf'); }
+@font-face {  font-family: 'Playfair Display';  font-style: 'normal'; font-weight:'600' src: url('fonts/playfair/PlayfairDisplay-SemiBold.ttf'); }
+
+@font-face {  font-family: 'Lato';  font-style: 'italic'; font-weight:'800' src: url('fonts/lato/Lato-BlackItalic.ttf'); }
+@font-face {  font-family: 'Lato';  font-style: 'normal'; font-weight:'800' src: url('fonts/lato/Lato-Black.ttf'); }
+@font-face {  font-family: 'Lato';  font-style: 'italic'; font-weight:'700' src: url('fonts/lato/Lato-BoldItalic.ttf'); }
+@font-face {  font-family: 'Lato';  font-style: 'normal'; font-weight:'700' src: url('fonts/lato/Lato-Bold.ttf'); }
+@font-face {  font-family: 'Lato';  font-style: 'italic'; font-weight:'400' src: url('fonts/lato/Lato-Italic.ttf'); }
+@font-face {  font-family: 'Lato';  font-style: 'italic'; font-weight:'300' src: url('fonts/lato/Lato-LightItalic.ttf'); }
+@font-face {  font-family: 'Lato';  font-style: 'normal'; font-weight:'300' src: url('fonts/lato/Lato-Light.ttf'); }
+@font-face {  font-family: 'Lato';  font-style: 'normal'; font-weight:'400' src: url('fonts/lato/Lato-Regular.ttf'); }
+@font-face {  font-family: 'Lato';  font-style: 'italic'; font-weight:'100' src: url('fonts/lato/Lato-ThinItalic.ttf'); }
+@font-face {  font-family: 'Lato';  font-style: 'normal'; font-weight:'100' src: url('fonts/lato/Lato-Thin.ttf'); }
+
+@font-face {  font-family: 'Berkshire Swash';  font-style: 'normal'; font-weight:'400' src: url('fonts/berkshire_swash/BerkshireSwash-Regular.ttf'); }
+
+@font-face {  font-family: 'Merienda';  font-style: 'normal'; font-weight:'400' src: url('fonts/merienda/Merienda-Regular.ttf'); }
+@font-face {  font-family: 'Merienda';  font-style: 'normal'; font-weight:'700' src: url('fonts/merienda/Merienda-Bold.ttf'); }
+
+@font-face {  font-family: 'Noto Serif';  font-style: 'normal'; font-weight:'400' src: url('fonts/noto_serif/NotoSerif-Regular.ttf'); }
+@font-face {  font-family: 'Noto Serif';  font-style: 'italic'; font-weight:'400' src: url('fonts/noto_serif/NotoSerif-Italic.ttf'); }
+@font-face {  font-family: 'Noto Serif';  font-style: 'italic'; font-weight:'700' src: url('fonts/noto_serif/NotoSerif-Bold.ttf'); }
+@font-face {  font-family: 'Noto Serif';  font-style: 'normal'; font-weight:'700' src: url('fonts/noto_serif/NotoSerif-BoldItalic.ttf'); }
+
+
+body {
+	font-family: 'Noto Serif' !important;
+	font-weight: 400 !important;
+	font-size: 1.9rem !important;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Playfair Display' !important;
+	font-weight: 700 !important;
+}
+
+a.active {
+	background-color: #FFC107 !important;
+}
+
+.rp-pg .pagination {
+  -ms-flex-pack: center !important;
+  justify-content: center !important;
+}
+
+.rp-pg ul {
+  background-color: transparent !important;
+}
+
+.rp-pg ul.pagination li {
+  background-color: transparent !important;
+}
+
+.rp-pg ul.pagination li.active {
+	background-color: #FFC107 !important;
+}
+
+@media (min-width: 400px) {
+    .display-3 {
+        font-size: 3.0rem !important;
+    }
+	body {
+		font-size: 1.0rem !important;
+	}    
+}
+
+@media (min-width: 600px) {
+    .display-3 {
+        font-size: 4.0rem !important;
+    }
+	body {
+		font-size: 1.1rem !important;
+	}    
+}
+
+@media (min-width: 800px) {
+    .display-3 {
+        font-size: 5.0rem !important;
+    }
+	body {
+		font-size: 1.1rem !important;
+	}    
+}
+
+@media (min-width: 1000px) {
+    .display-3 {
+        font-size: 6.0rem !important;
+    }
+	body {
+		font-size: 1.2rem !important;
+	}    
+}
+
+
+	
