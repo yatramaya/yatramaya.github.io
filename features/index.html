@@ -25,6 +25,20 @@
 			background-repeat: no-repeat;
 			background-size: 90% 90%;
 		}
+		
+		.hero-background {
+			position: absolute;
+			object-fit: cover;
+			object-position: center bottom;
+			width: 100%;
+			height: 100%;
+			ovedrflow: hidden;
+		}
+		
+		.hero-background.is-transparent {
+			opacity: 1.0;
+		}
+		
 	</style>	
 
 	<link rel="alternate" type="application/rss+xml+xml" href="https://yatramaya.hoatz.in/features/index.xml" title="Yatramaya" />
@@ -67,83 +81,116 @@
 <section class="section px-3 py-3">
 	<div class="container">
 		<div class="box pl-5 pr-5 is-shadowless is-radiusless">
-			<div class="columns is-multiline">			
-				
-				
-				
-				<div class="column is-6-tablet is-4-desktop">
-					<div class="card">
-						
-						<div class="card-image">
-							<figure class="image is-1by1">
-								<img src="https://yatramaya.hoatz.in/features/zanzibar/cover_hu69b1cd6d0848c5854ac62159a8208173_716940_400x400_fill_q75_box_smart1.jpg" alt="">
-							</figure>
-						</div>
-								
-						<div class="card-content">
-							<span class="tag is-info">
-								<em class="fas fa-map-marker-alt mr-1"></em>
-								feature
-							</span>
-							<h4 class="title is-4 mt-2">
-								<a class="has-text-dark" href="../features/zanzibar/">Zanzibar</a>
-							</h4>
-							<p class="has-text-danger mx-0 mt-0 mb-4">
-								<em class="fas fa-calendar-alt mr-1"></em>September 19, 2020 
-								<em class="fas fa-clock ml-1 mr-1"></em> 2 minutes
-							</p>
-							<p>The streets of zanzibar are lively! The streets of zanzibar are lively!The streets of zanzibar are lively! The streets of zanzibar are lively!
-The streets of zanzibar are lively! The streets of …</p>
-							<a href="../features/zanzibar/" class="button is-small is-warning is-rounded mt-3">Read</a>
-						</div>
-					</div>    
-				</div>
-				
-				
-				
-				<div class="column is-6-tablet is-4-desktop">
-					<div class="card">
-						
-						<div class="card-image">
-							<figure class="image is-1by1">
-								<img src="https://yatramaya.hoatz.in/features/feature-2/cover_hu76b164ca9302f8967895b33c1aa944d7_155088_400x400_fill_q75_box_smart1.jpg" alt="">
-							</figure>
-						</div>
-								
-						<div class="card-content">
-							<span class="tag is-info">
-								<em class="fas fa-map-marker-alt mr-1"></em>
-								feature
-							</span>
-							<h4 class="title is-4 mt-2">
-								<a class="has-text-dark" href="../features/feature-2/">Sample Post 3</a>
-							</h4>
-							<p class="has-text-danger mx-0 mt-0 mb-4">
-								<em class="fas fa-calendar-alt mr-1"></em>October 19, 2018 
-								<em class="fas fa-clock ml-1 mr-1"></em> 0 minutes
-							</p>
-							<p></p>
-							<a href="../features/feature-2/" class="button is-small is-warning is-rounded mt-3">Read</a>
-						</div>
-					</div>    
-				</div>
-				
-			</div>  
+			
+			
+			
+			
+			<div class="content mb-6">
+				<p class="title is-size-5-mobile is-size-5-tablet is-size-4-desktop is-size-3-widescreen mt-2 mb-0">
+					<a class="has-text-dark" href="../features/zanzibar/">Zanzibar is a fun place for a weekend getaway</a>
+				</p>
+				<p class="has-text-danger is-6 mx-0 mt-0 mb-4">
+					<em class="fas fa-calendar-alt mr-1"></em>September 19, 2020 
+					<em class="fas fa-clock ml-1 mr-1"></em> 2 minutes
+				</p>
+				<div class="columns is-multiline">
+					
+					<div class="column is-3 is-hidden-mobile">
+						<figure class="image is-1by1 ml-0 mr-0">
+							<img src="https://yatramaya.hoatz.in/features/zanzibar/cover_hu69b1cd6d0848c5854ac62159a8208173_716940_128x128_fill_q75_box_smart1.jpg" alt="">
+						</figure>
+					</div>
+					<div class="column is-3 is-hidden-tablet">
+						<figure class="image is-2by1 ml-0 mr-0">
+							<img src="https://yatramaya.hoatz.in/features/zanzibar/cover_hu69b1cd6d0848c5854ac62159a8208173_716940_256x128_fill_q75_box_smart1.jpg" alt="">
+						</figure>
+					</div>
+									
+					<div class="column is-8">
+						<p class="is-size-6-mobile is-size-6-tablet is-size-5-desktop is-size-4-widescreen">The streets of zanzibar are lively! The streets of zanzibar are lively!The streets of zanzibar are lively! The streets of zanzibar are lively!
+The streets of zanzibar are lively! The streets of zanzibar are lively!The streets of zanzibar are lively! The streets of zanzibar are lively! The streets of …</p>
+						<a href="../features/zanzibar/" class="button is-medium is-warning is-rounded mt-2">Read</a>
+					</div>
+				</div>		
+			</div>
+			<hr></hr>
+			
+			
+			
+			
+			<div class="content mb-6">
+				<p class="title is-size-5-mobile is-size-5-tablet is-size-4-desktop is-size-3-widescreen mt-2 mb-0">
+					<a class="has-text-dark" href="../features/feature-2/">Sample Post 3</a>
+				</p>
+				<p class="has-text-danger is-6 mx-0 mt-0 mb-4">
+					<em class="fas fa-calendar-alt mr-1"></em>October 19, 2018 
+					<em class="fas fa-clock ml-1 mr-1"></em> 0 minutes
+				</p>
+				<div class="columns is-multiline">
+					
+					<div class="column is-3 is-hidden-mobile">
+						<figure class="image is-1by1 ml-0 mr-0">
+							<img src="https://yatramaya.hoatz.in/features/feature-2/cover_hu76b164ca9302f8967895b33c1aa944d7_155088_128x128_fill_q75_box_smart1.jpg" alt="">
+						</figure>
+					</div>
+					<div class="column is-3 is-hidden-tablet">
+						<figure class="image is-2by1 ml-0 mr-0">
+							<img src="https://yatramaya.hoatz.in/features/feature-2/cover_hu76b164ca9302f8967895b33c1aa944d7_155088_256x128_fill_q75_box_smart1.jpg" alt="">
+						</figure>
+					</div>
+									
+					<div class="column is-8">
+						<p class="is-size-6-mobile is-size-6-tablet is-size-5-desktop is-size-4-widescreen"></p>
+						<a href="../features/feature-2/" class="button is-medium is-warning is-rounded mt-2">Read</a>
+					</div>
+				</div>		
+			</div>
+			<hr></hr>
+			
+			
+			
+			
+			<div class="content mb-6">
+				<p class="title is-size-5-mobile is-size-5-tablet is-size-4-desktop is-size-3-widescreen mt-2 mb-0">
+					<a class="has-text-dark" href="../features/feature-3/">Sample Post 4</a>
+				</p>
+				<p class="has-text-danger is-6 mx-0 mt-0 mb-4">
+					<em class="fas fa-calendar-alt mr-1"></em>October 19, 2018 
+					<em class="fas fa-clock ml-1 mr-1"></em> 0 minutes
+				</p>
+				<div class="columns is-multiline">
+					
+					<div class="column is-3 is-hidden-mobile">
+						<figure class="image is-1by1 ml-0 mr-0">
+							<img src="https://yatramaya.hoatz.in/features/feature-3/cover_hu34099c5ed49075c2bf23cf90835a1a8e_166698_128x128_fill_q75_box_smart1.jpg" alt="">
+						</figure>
+					</div>
+					<div class="column is-3 is-hidden-tablet">
+						<figure class="image is-2by1 ml-0 mr-0">
+							<img src="https://yatramaya.hoatz.in/features/feature-3/cover_hu34099c5ed49075c2bf23cf90835a1a8e_166698_256x128_fill_q75_box_smart1.jpg" alt="">
+						</figure>
+					</div>
+									
+					<div class="column is-8">
+						<p class="is-size-6-mobile is-size-6-tablet is-size-5-desktop is-size-4-widescreen"></p>
+						<a href="../features/feature-3/" class="button is-medium is-warning is-rounded mt-2">Read</a>
+					</div>
+				</div>		
+			</div>
+			<hr></hr>
+			
 			<nav class="pagination is-small is-rounded is-centered" role="navigation" aria-label="pagination">
 				<a class="pagination-previous" disabled>Previous</a>
-				<a class="pagination-next" href="../features/more/2/">Next page</a>
+				<a class="pagination-next" disabled>Next page</a>
 				<ul class="pagination-list">
 					
 					<li><a class="pagination-link is-current" aria-label="Page 1" aria-current="page">1</a></li>
-					
-						<li><a class="pagination-link" aria-label="Goto page 2" href="../features/more/2/">2</a></li>
-						
 					
 				</ul>
 			</nav>	
 		</div>		
 	</div>
-</section>		
+</section>
 
         </div><section class="section px-0 py-0 mt-5">
 	<footer class="footer">
@@ -155,8 +202,4 @@ The streets of zanzibar are lively! The streets of …</p>
 	</footer>
 </section>
 </body>
-    <script>
-		
-		
-    </script>
 </html>

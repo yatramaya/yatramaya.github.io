@@ -1,1 +1,19 @@
+@font-face {  font-family: "Bitter HT";  font-style: italic; font-weight:400 ; src: url('../fonts/bitter-ht/BitterPro-Italic.ttf'); }
+@font-face {  font-family: "Bitter HT";  font-style: normal; font-weight:700 ; src: url('../fonts/bitter-ht/BitterPro-Bold.ttf'); }
+@font-face {  font-family: "Bitter HT";  font-style: italic; font-weight:700 ; src: url('../fonts/bitter-ht/BitterPro-BoldItalic.ttf'); }
+@font-face {  font-family: "Bitter HT";  font-style: normal; font-weight:400 ; src: url('../fonts/bitter-ht/BitterPro-Regular.ttf'); }
 
+@font-face {  font-family: "Berkshire Swash";  font-style: normal; font-weight:400 ; src: url('../fonts/berkshire-swash/BerkshireSwash-Regular.ttf'); }
+
+body,
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: "Bitter HT", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+}
+
+.title {
+  font-family: "Berkshire Swash", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+}

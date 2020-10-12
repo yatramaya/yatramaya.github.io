@@ -26,6 +26,20 @@
 			background-repeat: no-repeat;
 			background-size: 90% 90%;
 		}
+		
+		.hero-background {
+			position: absolute;
+			object-fit: cover;
+			object-position: center bottom;
+			width: 100%;
+			height: 100%;
+			ovedrflow: hidden;
+		}
+		
+		.hero-background.is-transparent {
+			opacity: 1.0;
+		}
+		
 	</style>	
 
 	<link rel="alternate" type="application/rss+xml+xml" href="https://yatramaya.hoatz.in/index.xml" title="Yatramaya" />
@@ -65,21 +79,34 @@
 </section>
 
 <div id="content">
-
-<section class="hero is-light is-bold is-medium">
+<section class="hero is-dark is-bold is-large">
+	<img alt="Background" class="hero-background is-transparent" src="https://yatramaya.hoatz.in/images/background.jpg" />
 	<div class="hero-head"></div>
 	<div class="hero-body">
 		<div class="container">
-			<div class="columns">
+			<div class="columns is-vcentered">
 				<div class="column is-7">
-					<h1 class="title is-1 is-hidden-tablet">Yatramaya</h1>
-					<h1 class="title is-1 is-hidden-mobile" style="font-size:6rem">Yatramaya</h1>
+					<h1 class="title is-1 is-hidden-tablet has-text-dark">
+						<em class="fas fa-dove mr-1"></em>
+						Yatramaya
+					</h1>
+					<h1 class="title is-1 is-hidden-mobile has-text-light" style="font-size:6rem">
+						<em class="fas fa-dove mr-1"></em>
+						Yatramaya
+					</h1>
 				</div>
 				<div class="column is-5 is-hidden-mobile">
 					<div class="box">
-						<h6 class="title is-6">About Yatramaya</h6>
-						<p>Welcome fellow traveller!</p>
-						<p>We hope you enjoy the material availabe here. If you are into reading, we have a lot to offer, in terms of long and short travel related articles. We also have a bunch of Howtos that you might find useful. </p>
+						<div class="columns">
+							<div class="column is-2">
+								<h1 class="title is-1 has-text-danger"><em class="fas fa-info-circle"></em></h1>
+							</div>
+							<div class="column is-10">							
+									<h6 class="title is-6 has-text-danger">About Yatramaya</h6>
+									<p>Welcome fellow traveller!</p>
+									<p>We hope you enjoy the material availabe here. If you are into reading, we have a lot to offer, in terms of long and short travel related articles. We also have a bunch of Howtos that you might find useful. </p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>			
@@ -115,7 +142,7 @@
 							feature
 						</span>
 						<h4 class="title is-4 mt-2">
-							<a class="has-text-dark" href="./features/zanzibar/">Zanzibar</a>
+							<a class="has-text-dark" href="./features/zanzibar/">Zanzibar is a fun place for a weekend getaway</a>
 						</h4>
 						<p class="has-text-danger mx-0 mt-0 mb-4">
 							<em class="fas fa-calendar-alt mr-1"></em>September 19, 2020 
@@ -229,8 +256,4 @@ The streets of zanzibar are lively! The streets of …</p>
 	</footer>
 </section>
 </body>
-    <script>
-		
-		
-    </script>
 </html>
