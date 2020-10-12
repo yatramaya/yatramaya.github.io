@@ -2,57 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yatramaya</title>
-    <link>https://yatramaya.hoatz.in/</link>
+    <link>https://yatramaya.hoatz.in/index.html</link>
     <description>Recent content on Yatramaya</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2020 16:10:36 -0400</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Zanzibar</title>
-      <link>https://yatramaya.hoatz.in/features/zanzibar/</link>
-      <pubDate>Sat, 19 Sep 2020 16:10:36 -0400</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/features/zanzibar/</guid>
-      <description>The streets of zanzibar are lively! The streets of zanzibar are lively!The streets of zanzibar are lively! The streets of zanzibar are lively!
-The streets of zanzibar are lively! The streets of zanzibar are lively!The streets of zanzibar are lively! The streets of zanzibar are lively! The streets of zanzibar are lively! The streets of zanzibar are lively!The streets of zanzibar are lively! The streets of zanzibar are lively! The streets of zanzibar are lively!</description>
-    </item>
-    
-    <item>
-      <title>Stars</title>
-      <link>https://yatramaya.hoatz.in/experiences/star-gazing/</link>
-      <pubDate>Thu, 03 Oct 2019 16:10:36 -0400</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/experiences/star-gazing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://yatramaya.hoatz.in/about/</link>
-      <pubDate>Fri, 19 Oct 2018 16:10:36 -0400</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Sample Post 3</title>
-      <link>https://yatramaya.hoatz.in/features/feature-2/</link>
-      <pubDate>Fri, 19 Oct 2018 16:10:36 -0400</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/features/feature-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample Post 4</title>
-      <link>https://yatramaya.hoatz.in/features/feature-3/</link>
-      <pubDate>Fri, 19 Oct 2018 16:10:36 -0400</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/features/feature-3/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://yatramaya.hoatz.in/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
