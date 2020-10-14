@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Yatramaya</title>
+    <link>https://yatramaya.hoatz.in/experiences/</link>
+    <description>Recent content in Experiences on Yatramaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2019 16:10:36 -0400</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/experiences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stars</title>
+      <link>https://yatramaya.hoatz.in/experiences/star-gazing/</link>
+      <pubDate>Thu, 03 Oct 2019 16:10:36 -0400</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/star-gazing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

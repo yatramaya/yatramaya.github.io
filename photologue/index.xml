@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photologues on Yatramaya</title>
+    <link>https://yatramaya.hoatz.in/photologue/</link>
+    <description>Recent content in Photologues on Yatramaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 16:10:36 -0400</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/photologue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goa</title>
+      <link>https://yatramaya.hoatz.in/photologue/album-3/</link>
+      <pubDate>Fri, 01 May 2020 16:10:36 -0400</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/photologue/album-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lalbagh early morning visit</title>
+      <link>https://yatramaya.hoatz.in/photologue/album-2/</link>
+      <pubDate>Fri, 01 May 2020 16:10:36 -0400</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/photologue/album-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos from Kadlekai Parishe</title>
+      <link>https://yatramaya.hoatz.in/photologue/album-1/</link>
+      <pubDate>Wed, 01 Jan 2020 16:10:36 -0400</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/photologue/album-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

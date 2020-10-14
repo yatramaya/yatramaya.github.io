@@ -21,24 +21,20 @@
 	</script>
 	
 	<style>
-		.rp-banner {
-			background-image: url('https://yatramaya.hoatz.in/images/background.jpg') !important;
-			background-attachment: fixed;
-			background-repeat: no-repeat;
-			background-size: 90% 90%;
-		}
-		
-		.hero-background {
+		.rp-background {
 			position: absolute;
 			object-fit: cover;
-			object-position: center bottom;
 			width: 100%;
 			height: 100%;
-			ovedrflow: hidden;
 		}
 		
 		.hero-background.is-transparent {
 			opacity: 1.0;
+			
+			object-position: center bottom;
+			width: 100%;
+			ovedrflow: hidden;
+			
 		}
 		
 		.rp-smaller-text {
@@ -68,15 +64,35 @@
 				<div class="navbar-start">
 					
 					
-						<a class="navbar-item is-active has-text-danger" href="./" title="">Home</a>
+						<a class="navbar-item is-active has-text-danger"
+						   href="./" 
+						   title="">
+							<em class="fas fa-home pr-2"></em>Home
+						</a>
 					
-						<a class="navbar-item dummy" href="./about/" title="">About</a>
+						<a class="navbar-item dummy"
+						   href="./about/" 
+						   title="">
+							<em class="fas fa-info-cirle pr-2"></em>About
+						</a>
 					
-						<a class="navbar-item dummy" href="./experiences/" title="">Experiences</a>
+						<a class="navbar-item dummy"
+						   href="./experiences/" 
+						   title="">
+							<em class="fas fa-plane pr-2"></em>Experiences
+						</a>
 					
-						<a class="navbar-item dummy" href="./features/" title="">Features</a>
+						<a class="navbar-item dummy"
+						   href="./features/" 
+						   title="">
+							<em class="fas fa-map-marker-alt pr-2"></em>Features
+						</a>
 					
-						<a class="navbar-item dummy" href="./photologue/" title="">Photologue</a>
+						<a class="navbar-item dummy"
+						   href="./photologue/" 
+						   title="">
+							<em class="fas fa-camera pr-2"></em>Photologue
+						</a>
 					
 				</div>
 				<div class="navbar-end">
@@ -90,18 +106,18 @@
 
         <div id="content">
         
-<section class="hero is-dark is-bold is-large">
-	<img alt="Background" class="hero-background is-transparent" src="https://yatramaya.hoatz.in/images/background.jpg" />
+<section class="hero is-warning is-bold is-large">
+	
 	<div class="hero-head"></div>
 	<div class="hero-body">
 		<div class="container">
 			<div class="columns is-vcentered">
 				<div class="column is-7">
-					<h1 class="title is-1 is-hidden-tablet has-text-dark">
+					<h1 class="title is-1 is-hidden-tablet has-text-centered">
 						<em class="fas fa-dove mr-1"></em>
 						Yatramaya
 					</h1>
-					<h1 class="title is-1 is-hidden-mobile has-text-warning-light" style="font-size:6rem">
+					<h1 class="title is-1 is-hidden-mobile has-text-centered" style="font-size:6rem">
 						<em class="fas fa-dove mr-1"></em>
 						Yatramaya
 					</h1>
@@ -113,7 +129,7 @@
 								<h1 class="title is-1 has-text-danger"><em class="fas fa-info-circle"></em></h1>
 							</div>
 							<div class="column is-10">							
-									<h6 class="title is-6 has-text-danger">About Yatramaya</h6>
+									<h4 class="title is-4 has-text-danger">About Yatramaya</h4>
 									<p>Welcome fellow traveller!</p>
 									<p>We hope you enjoy the material availabe here. If you are into reading, we have a lot to offer, in terms of long and short travel related articles. We also have a bunch of Howtos that you might find useful. </p>
 							</div>
@@ -132,7 +148,7 @@
 		<h1 class="title is-1 mt-0"><em class="fas fa-caret-down"></em></h1>	
 	</div>
 </section>
-<section class="section px-3 py-3">
+<section class="section px-3 py-0">
 	<div class="container">
 		
 			
@@ -145,7 +161,7 @@
 					
 					<div class="card-image">
 						<figure class="image is-1by1">
-							<img src="https://yatramaya.hoatz.in/features/zanzibar/cover_hu69b1cd6d0848c5854ac62159a8208173_716940_400x400_fill_q75_box_smart1.jpg" alt="">
+							<img src="https://yatramaya.hoatz.in/features/zanzibar/cover_hu69b1cd6d0848c5854ac62159a8208173_716940_400x400_fill_q60_box_smart1.jpg" alt="">
 						</figure>
 					</div>
 							
@@ -175,7 +191,7 @@ The streets of zanzibar are lively! The streets of …</p>
 					
 					<div class="card-image">
 						<figure class="image is-1by1">
-							<img src="https://yatramaya.hoatz.in/experiences/star-gazing/cover_hu69b1cd6d0848c5854ac62159a8208173_1452736_400x400_fill_q75_box_smart1.jpg" alt="">
+							<img src="https://yatramaya.hoatz.in/experiences/star-gazing/cover_hu69b1cd6d0848c5854ac62159a8208173_1452736_400x400_fill_q60_box_smart1.jpg" alt="">
 						</figure>
 					</div>
 							
@@ -204,7 +220,7 @@ The streets of zanzibar are lively! The streets of …</p>
 					
 					<div class="card-image">
 						<figure class="image is-1by1">
-							<img src="https://yatramaya.hoatz.in/features/feature-2/cover_hu76b164ca9302f8967895b33c1aa944d7_155088_400x400_fill_q75_box_smart1.jpg" alt="">
+							<img src="https://yatramaya.hoatz.in/features/feature-2/cover_hu76b164ca9302f8967895b33c1aa944d7_155088_400x400_fill_q60_box_smart1.jpg" alt="">
 						</figure>
 					</div>
 							
@@ -233,7 +249,7 @@ The streets of zanzibar are lively! The streets of …</p>
 					
 					<div class="card-image">
 						<figure class="image is-1by1">
-							<img src="https://yatramaya.hoatz.in/features/feature-3/cover_hu34099c5ed49075c2bf23cf90835a1a8e_166698_400x400_fill_q75_box_smart1.jpg" alt="">
+							<img src="https://yatramaya.hoatz.in/features/feature-3/cover_hu34099c5ed49075c2bf23cf90835a1a8e_166698_400x400_fill_q60_box_smart1.jpg" alt="">
 						</figure>
 					</div>
 							
