@@ -34,6 +34,24 @@
     </item>
     
     <item>
+      <title>Duration</title>
+      <link>https://yatramaya.hoatz.in/duration/</link>
+      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/duration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi Day</title>
+      <link>https://yatramaya.hoatz.in/duration/multi-day/</link>
+      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/duration/multi-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Uganda</title>
       <link>https://yatramaya.hoatz.in/countries/uganda/</link>
       <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
@@ -48,6 +66,15 @@
       <pubDate>Wed, 14 Oct 2020 17:13:01 +0530</pubDate>
       
       <guid>https://yatramaya.hoatz.in/continents/asia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Half Day</title>
+      <link>https://yatramaya.hoatz.in/duration/half-day/</link>
+      <pubDate>Wed, 14 Oct 2020 17:13:01 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/duration/half-day/</guid>
       <description></description>
     </item>
     
@@ -97,11 +124,11 @@
     </item>
     
     <item>
-      <title>India</title>
-      <link>https://yatramaya.hoatz.in/countries/india/</link>
+      <title>Full Day</title>
+      <link>https://yatramaya.hoatz.in/duration/full-day/</link>
       <pubDate>Wed, 14 Oct 2020 10:17:00 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/countries/india/</guid>
+      <guid>https://yatramaya.hoatz.in/duration/full-day/</guid>
       <description></description>
     </item>
     
