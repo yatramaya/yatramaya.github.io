@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continents on Yatramaya</title>
+    <link>https://yatramaya.hoatz.in/continents/</link>
+    <description>Recent content in Continents on Yatramaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Oct 2020 17:13:01 +0530</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/continents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asia</title>
+      <link>https://yatramaya.hoatz.in/continents/asia/</link>
+      <pubDate>Wed, 14 Oct 2020 17:13:01 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/continents/asia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Europe</title>
+      <link>https://yatramaya.hoatz.in/continents/europe/</link>
+      <pubDate>Wed, 14 Oct 2020 16:57:03 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/continents/europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>North America</title>
+      <link>https://yatramaya.hoatz.in/continents/north-america/</link>
+      <pubDate>Wed, 14 Oct 2020 10:32:42 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/continents/north-america/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
