@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://yatramaya.hoatz.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Asia</title>
-      <link>https://yatramaya.hoatz.in/continents/asia/</link>
-      <pubDate>Wed, 14 Oct 2020 17:13:01 +0530</pubDate>
+      <title>Africa</title>
+      <link>https://yatramaya.hoatz.in/continents/africa/</link>
+      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/continents/asia/</guid>
+      <guid>https://yatramaya.hoatz.in/continents/africa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continents</title>
       <link>https://yatramaya.hoatz.in/continents/</link>
-      <pubDate>Wed, 14 Oct 2020 17:13:01 +0530</pubDate>
+      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
       
       <guid>https://yatramaya.hoatz.in/continents/</guid>
       <description></description>
@@ -27,9 +27,27 @@
     <item>
       <title>Countries</title>
       <link>https://yatramaya.hoatz.in/countries/</link>
-      <pubDate>Wed, 14 Oct 2020 17:13:01 +0530</pubDate>
+      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
       
       <guid>https://yatramaya.hoatz.in/countries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uganda</title>
+      <link>https://yatramaya.hoatz.in/countries/uganda/</link>
+      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/countries/uganda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asia</title>
+      <link>https://yatramaya.hoatz.in/continents/asia/</link>
+      <pubDate>Wed, 14 Oct 2020 17:13:01 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/continents/asia/</guid>
       <description></description>
     </item>
     
