@@ -1,0 +1,63 @@
+User-agent: *
+
+
+Disallow: /continents/africa/
+
+Disallow: /continents/
+
+Disallow: /countries/
+
+Disallow: /duration/
+
+Disallow: /experiences/
+
+Disallow: /duration/multi-day/
+
+Disallow: /experiences/homestay-experience-bududa/
+
+Disallow: /countries/uganda/
+
+Disallow: /
+
+Disallow: /continents/asia/
+
+Disallow: /duration/half-day/
+
+Disallow: /countries/sri-lanka/
+
+Disallow: /experiences/whale-watching-lanka/
+
+Disallow: /continents/europe/
+
+Disallow: /experiences/live-music-bar-goreme/
+
+Disallow: /countries/turkey/
+
+Disallow: /experiences/camping-at-savage-river/
+
+Disallow: /continents/north-america/
+
+Disallow: /countries/united-states-of-america/
+
+Disallow: /experiences/denali-at-her-raw-best/
+
+Disallow: /duration/full-day/
+
+Disallow: /countries/kenya/
+
+Disallow: /experiences/adventures-with-matatus/
+
+Disallow: /countries/tanzania/
+
+Disallow: /experiences/stuck-in-serengeti/
+
+Disallow: /experiences/our-closest-ancestor/
+
+Disallow: /about/
+
+Disallow: /experiences/stonetown-zanzibar/
+
+Disallow: /countries/zanzibar/
+
+Disallow: /index.html
+

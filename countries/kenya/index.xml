@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenya on Yatramaya</title>
+    <link>https://yatramaya.hoatz.in/countries/kenya/</link>
+    <description>Recent content in Kenya on Yatramaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Nov 2019 19:32:50 +0530</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/countries/kenya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My adventures with Matatus</title>
+      <link>https://yatramaya.hoatz.in/experiences/adventures-with-matatus/</link>
+      <pubDate>Sun, 03 Nov 2019 19:32:50 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/adventures-with-matatus/</guid>
+      <description>Before travelling to East Africa, I had managed my travels with two grand assumptions (a) long distances are better covered by night (b) if you are ready to pay a price, there are better options in public transport. While these two were busted pretty quickly, none of my experiences so far had prepared me for a “matatu”.
+From whatever I had read earlier, before landing in Kenya, I had deduced that all my travels had to be done during the day.</description>
+    </item>
+    
+  </channel>
+</rss>
