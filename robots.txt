@@ -1,0 +1,264 @@
+User-agent: *
+
+
+Disallow: /year/2014.html
+
+Disallow: /experiences/andaman-stargazing.html
+
+Disallow: /month/april.html
+
+Disallow: /continents/asia.html
+
+Disallow: /types/beach.html
+
+Disallow: /continents.html
+
+Disallow: /countries.html
+
+Disallow: /duration.html
+
+Disallow: /medium/essay.html
+
+Disallow: /experiences.html
+
+Disallow: /duration/half-day.html
+
+Disallow: /
+
+Disallow: /countries/india.html
+
+Disallow: /medium.html
+
+Disallow: /month.html
+
+Disallow: /types/nature.html
+
+Disallow: /types.html
+
+Disallow: /year.html
+
+Disallow: /year/2018.html
+
+Disallow: /experiences/dead-sea-worlds-largest-outdoor-spa.html
+
+Disallow: /countries/jordan.html
+
+Disallow: /duration/multi-day.html
+
+Disallow: /continents/north-america.html
+
+Disallow: /month/october.html
+
+Disallow: /countries/united-states-of-america.html
+
+Disallow: /experiences/yellowstone-more-to-it-than-geysers.html
+
+Disallow: /experiences/a-modest-trek-through-a-grand-canyon.html
+
+Disallow: /types/trekking.html
+
+Disallow: /year/2013.html
+
+Disallow: /month/february.html
+
+Disallow: /experiences/work-hard-beach-soft.html
+
+Disallow: /year/2022.html
+
+Disallow: /types/forest.html
+
+Disallow: /month/november.html
+
+Disallow: /experiences/the-improbability-of-castle-rock.html
+
+Disallow: /types/wildlife.html
+
+Disallow: /year/2008.html
+
+Disallow: /types/culture.html
+
+Disallow: /experiences/keylong-a-few-days-before-cut-off.html
+
+Disallow: /types/mountain.html
+
+Disallow: /types/people.html
+
+Disallow: /month/september.html
+
+Disallow: /continents/africa.html
+
+Disallow: /countries/kenya.html
+
+Disallow: /experiences/land-border-crossing-from-kenya-to-uganda.html
+
+Disallow: /types/roadtrip.html
+
+Disallow: /countries/uganda.html
+
+Disallow: /experiences/walking-the-maara-with-maasai.html
+
+Disallow: /year/2019.html
+
+Disallow: /types/city.html
+
+Disallow: /experiences/getting-stuck-at-tumbes.html
+
+Disallow: /types/historical.html
+
+Disallow: /types/market.html
+
+Disallow: /countries/peru.html
+
+Disallow: /continents/south-america.html
+
+Disallow: /types/river.html
+
+Disallow: /experiences/the-amazon-and-its-tributaries.html
+
+Disallow: /experiences/homes-on-stilts-in-the-amazon.html
+
+Disallow: /year/2017.html
+
+Disallow: /experiences/a-short-trek-to-a-lake-in-the-sky.html
+
+Disallow: /experiences/bryce-a-living-planetarium.html
+
+Disallow: /experiences/manali-strangers-meet-like-friends.html
+
+Disallow: /month/august.html
+
+Disallow: /countries/bolivia.html
+
+Disallow: /experiences/amazonian-community-of-san-jose-de-uchupiamonas.html
+
+Disallow: /year/2020.html
+
+Disallow: /experiences/bulbuls-in-my-backyard.html
+
+Disallow: /experiences/yellowstone-where-the-bisons-still-roam-free.html
+
+Disallow: /experiences/a-night-at-southbeach-miami.html
+
+Disallow: /experiences/bonding-with-bodaboda-driver-over-football.html
+
+Disallow: /experiences/drive-through-ishasha.html
+
+Disallow: /experiences/camping-by-the-nile.html
+
+Disallow: /duration/full-day.html
+
+Disallow: /experiences/moving-with-the-mail.html
+
+Disallow: /continents/europe.html
+
+Disallow: /experiences/the-whirling-dervishes-of-turkey.html
+
+Disallow: /countries/turkey.html
+
+Disallow: /types/food.html
+
+Disallow: /month/march.html
+
+Disallow: /countries/tanzania.html
+
+Disallow: /experiences/volunteering-for-food.html
+
+Disallow: /experiences/land-border-crossing-from-kenya-to-tanzania.html
+
+Disallow: /experiences/life-in-spiti.html
+
+Disallow: /experiences/howler-monkeys-and-the-ultimate-insult.html
+
+Disallow: /experiences/the-incan-holy-grail.html
+
+Disallow: /year/2021.html
+
+Disallow: /experiences/babbling-on-a-clothesline.html
+
+Disallow: /experiences/rains-kerala.html
+
+Disallow: /experiences/from-nairobi-to-narok.html
+
+Disallow: /countries/colombia.html
+
+Disallow: /experiences/parque-arvi-nature-overlooking-medellin.html
+
+Disallow: /experiences/day-trip-to-playa-blanca-colombia.html
+
+Disallow: /experiences/by-the-caribbean-coast-of-cartagena.html
+
+Disallow: /experiences/tallest-palm-in-the-world.html
+
+Disallow: /experiences/no-one-can-stop-looking-at-jardin.html
+
+Disallow: /countries/chile.html
+
+Disallow: /experiences/trip-to-a-bolivian-consulate.html
+
+Disallow: /experiences/lounge-birding-at-sadiri-lodge.html
+
+Disallow: /experiences/amazing-birds-of-amazon.html
+
+Disallow: /experiences/we-still-have-not-seen-the-tapir.html
+
+Disallow: /countries/alaska.html
+
+Disallow: /experiences/anchorage-to-seward.html
+
+Disallow: /types/train.html
+
+Disallow: /experiences/talkeetna-alaskan-hinterland.html
+
+Disallow: /experiences/hamam-at-istanbul-turkey.html
+
+Disallow: /experiences/goreme-cappadocia-homestay.html
+
+Disallow: /experiences/azaan-at-sultanahmet-istanbul.html
+
+Disallow: /experiences/sinharaja-forest-reserve-srilanka.html
+
+Disallow: /month/january.html
+
+Disallow: /countries/sri-lanka.html
+
+Disallow: /types/boat.html
+
+Disallow: /experiences/glacier-tour-seward.html
+
+Disallow: /experiences/homestay-experience-bududa.html
+
+Disallow: /experiences/whale-watching-lanka.html
+
+Disallow: /experiences/live-music-bar-goreme.html
+
+Disallow: /experiences/return-to-arambol-goa.html
+
+Disallow: /experiences/camping-at-savage-river.html
+
+Disallow: /experiences/denali-at-her-raw-best.html
+
+Disallow: /experiences/trek-to-kuari-pass-pangarchulla.html
+
+Disallow: /month/may.html
+
+Disallow: /experiences/our-closest-cousin.html
+
+Disallow: /experiences/stonetown-zanzibar.html
+
+Disallow: /countries/zanzibar.html
+
+Disallow: /experiences/andaman-forest-walk.html
+
+Disallow: /.html
+
+Disallow: /about.html
+
+Disallow: /about.html
+
+Disallow: /explore.html
+
+Disallow: /about/privileged-soul.html
+
+Disallow: /about/what-travel-taught-me.html
+
+
