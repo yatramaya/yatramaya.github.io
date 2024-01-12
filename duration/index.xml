@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duration on Yātrāmaya</title>
+    <link>https://yatramaya.hoatz.in/duration.html</link>
+    <description>Recent content in Duration on Yātrāmaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 07:54:34 +0530</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/duration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Half Day</title>
+      <link>https://yatramaya.hoatz.in/duration/half-day.html</link>
+      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/duration/half-day.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi Day</title>
+      <link>https://yatramaya.hoatz.in/duration/multi-day.html</link>
+      <pubDate>Thu, 27 Jul 2023 18:51:39 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/duration/multi-day.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full Day</title>
+      <link>https://yatramaya.hoatz.in/duration/full-day.html</link>
+      <pubDate>Sun, 29 Jan 2023 21:56:24 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/duration/full-day.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
