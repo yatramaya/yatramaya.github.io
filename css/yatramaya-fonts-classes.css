@@ -1,0 +1,125 @@
+.unused_valid_class {
+    letter-spacing: 0.03em !important;
+    line-height: 1.5em !important;
+	-moz-osx-font-smoothing: grayscale !important;
+	-webkit-font-smoothing: antialiased !important;
+	-moz-font-smoothing: antialiased !important;
+	text-rendering: optimizelegibility !important;    
+	font-family: "Zilla Slab", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+	font-weight: 300;
+}
+
+body,
+button,
+input,
+optgroup,
+select,
+textarea {
+	font-family: "Martel", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+	font-weight: 300 !important;
+	-moz-osx-font-smoothing: grayscale !important;
+	-webkit-font-smoothing: antialiased !important;
+	-moz-font-smoothing: antialiased !important;
+	text-rendering: optimizelegibility !important;    
+}
+
+/* Yatramaya */
+.rp-site-title {
+	font-family: "Arima Madurai", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+	font-weight: 900 !important;
+}
+
+/* Page Title that appears under Yatramaya and overlaps it */
+.rp-page-title-small {
+	font-family: "Martel", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+	font-weight: 700 !important;
+}
+
+/* Links type Headings to pages (leading to below class) */
+.rp-page-title-medium {
+	font-family: "Martel", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+	font-weight: 700 !important;
+}
+
+/* Big Heading on pages */
+.rp-page-title-large {
+	font-family: "Martel", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+	font-weight: 900 !important;
+}
+
+/* Headings that are not content, website page headings, navigation headings*/
+.rp-heading {
+	font-family: "Martel", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+   font-weight: 600 !important;
+}
+
+/* Buttons, links, including taxonomy links */
+.rp-clickable {
+	font-family: sans-serif !important;
+	font-weight: 300 !important;
+}
+
+/* Article reading time, date and any other small text */
+.rp-small-info {
+	font-family: sans-serif !important;
+	font-weight: 700 !important;
+}
+
+.ym-title-varying {
+	font-size: 500% !important;
+}
+
+@media screen and (max-width: 1023px) {
+	.ym-title-varying {
+		font-size: 410% !important;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.ym-title-varying {
+		font-size: 330% !important;
+	}
+}
+
+html {
+	font-size: 20px !important;
+}
+
+@media screen and (max-width: 1200px) {
+	html {
+		font-size: 19px !important;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	html {
+		font-size: 18px !important;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	html {
+		font-size: 16px !important;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	html {
+		font-size: 15px !important;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	html {
+		font-size: 14px !important;
+	}
+}
+
+.rp-larger-text {
+	font-size: 600% !important;
+}
+
+.rp-smaller-text {
+	font-size: 0.7em !important;
+}
+

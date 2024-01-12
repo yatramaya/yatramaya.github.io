@@ -1,0 +1,80 @@
+@font-face {  font-family: "Bitter HT";  font-style: normal; font-weight:400 ; src: url('../fonts/bitter-ht/BitterPro-Regular.ttf'); }
+@font-face {  font-family: "Bitter HT";  font-style: italic; font-weight:400 ; src: url('../fonts/bitter-ht/BitterPro-Italic.ttf'); }
+@font-face {  font-family: "Bitter HT";  font-style: normal; font-weight:700 ; src: url('../fonts/bitter-ht/BitterPro-Bold.ttf'); }
+@font-face {  font-family: "Bitter HT";  font-style: italic; font-weight:700 ; src: url('../fonts/bitter-ht/BitterPro-BoldItalic.ttf'); }
+
+@font-face {  font-family: "Berkshire Swash";  font-style: normal; font-weight:400 ; src: url('../fonts/berkshire-swash/BerkshireSwash-Regular.ttf'); }
+
+@font-face {  font-family: "Lobster";  font-style: normal; font-weight:400 ; src: url('../fonts/lobster/Lobster-Regular.ttf'); }
+
+@font-face {  font-family: "Trocchi";  font-style: normal; font-weight:400 ; src: url('../fonts/trocchi/Trocchi-Regular.ttf'); }
+
+@font-face {  font-family: "Old Standard TT";  font-style: normal; font-weight:400 ; src: url('../fonts/old-standard-tt/OldStandardTT-Regular.ttf'); }
+@font-face {  font-family: "Old Standard TT";  font-style: italic; font-weight:400 ; src: url('../fonts/old-standard-tt/OldStandardTT-Italic.ttf'); }
+@font-face {  font-family: "Old Standard TT";  font-style: normal; font-weight:700 ; src: url('../fonts/old-standard-tt/OldStandardTT-Bold.ttf'); }
+
+@font-face {  font-family: "Zilla Slab";  font-style: normal; font-weight:300 ; src: url('../fonts/zilla-slab/ZillaSlab-Light.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: italic; font-weight:300 ; src: url('../fonts/zilla-slab/ZillaSlab-LightItalic.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: normal; font-weight:400 ; src: url('../fonts/zilla-slab/ZillaSlab-Regular.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: italic; font-weight:400 ; src: url('../fonts/zilla-slab/ZillaSlab-Italic.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: normal; font-weight:500 ; src: url('../fonts/zilla-slab/ZillaSlab-Medium.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: italic; font-weight:500 ; src: url('../fonts/zilla-slab/ZillaSlab-MediumItalic.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: normal; font-weight:600 ; src: url('../fonts/zilla-slab/ZillaSlab-SemiBold.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: italic; font-weight:600 ; src: url('../fonts/zilla-slab/ZillaSlab-SemiBoldItalic.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: normal; font-weight:700 ; src: url('../fonts/zilla-slab/ZillaSlab-Bold.ttf'); }
+@font-face {  font-family: "Zilla Slab";  font-style: italic; font-weight:700 ; src: url('../fonts/zilla-slab/ZillaSlab-BoldItalic.ttf'); }
+
+@font-face {  font-family: "Josefin Sans";  font-style: normal; font-weight:100 ; src: url('../fonts/josefin-sans/JosefinSans-Thin.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: italic; font-weight:100 ; src: url('../fonts/josefin-sans/JosefinSans-ThinItalic.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: normal; font-weight:200 ; src: url('../fonts/josefin-sans/JosefinSans-ExtraLight.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: italic; font-weight:200 ; src: url('../fonts/josefin-sans/JosefinSans-ExtraLightItalic.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: normal; font-weight:300 ; src: url('../fonts/josefin-sans/JosefinSans-Light.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: italic; font-weight:300 ; src: url('../fonts/josefin-sans/JosefinSans-LightItalic.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: normal; font-weight:400 ; src: url('../fonts/josefin-sans/JosefinSans-Regular.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: italic; font-weight:400 ; src: url('../fonts/josefin-sans/JosefinSans-Italic.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: normal; font-weight:500 ; src: url('../fonts/josefin-sans/JosefinSans-Medium.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: italic; font-weight:500 ; src: url('../fonts/josefin-sans/JosefinSans-MediumItalic.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: normal; font-weight:600 ; src: url('../fonts/josefin-sans/JosefinSans-SemiBold.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: italic; font-weight:600 ; src: url('../fonts/josefin-sans/JosefinSans-SemiBoldItalic.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: normal; font-weight:700 ; src: url('../fonts/josefin-sans/JosefinSans-Bold.ttf'); }
+@font-face {  font-family: "Josefin Sans";  font-style: italic; font-weight:700 ; src: url('../fonts/josefin-sans/JosefinSans-BoldItalic.ttf'); }
+
+@font-face {  font-family: "Ledger";  font-style: normal; font-weight:400 ; src: url('../fonts/ledger/Ledger-Regular.ttf'); }
+
+@font-face {  font-family: "Comfortaa";  font-style: normal; font-weight:300 ; src: url('../fonts/comfortaa/Comfortaa-Light.ttf'); }
+@font-face {  font-family: "Comfortaa";  font-style: normal; font-weight:400 ; src: url('../fonts/comfortaa/Comfortaa-Regular.ttf'); }
+@font-face {  font-family: "Comfortaa";  font-style: normal; font-weight:500 ; src: url('../fonts/comfortaa/Comfortaa-Medium.ttf'); }
+@font-face {  font-family: "Comfortaa";  font-style: normal; font-weight:600 ; src: url('../fonts/comfortaa/Comfortaa-SemiBold.ttf'); }
+@font-face {  font-family: "Comfortaa";  font-style: normal; font-weight:700 ; src: url('../fonts/comfortaa/Comfortaa-Bold.ttf'); }
+
+@font-face {  font-family: "Paprika";  font-style: normal; font-weight:400 ; src: url('../fonts/paprika/Paprika-Regular.ttf'); }
+
+@font-face {  font-family: "Miriam Libre";  font-style: normal; font-weight:400 ; src: url('../fonts/miriam_libre/MiriamLibre-Regular.ttf'); }
+@font-face {  font-family: "Miriam Libre";  font-style: normal; font-weight:700 ; src: url('../fonts/miriam_libre/MiriamLibre-Bold.ttf'); }
+
+@font-face {  font-family: "Biryani";  font-style: normal; font-weight:200 ; src: url('../fonts/biryani/Biryani-ExtraLight.ttf'); }
+@font-face {  font-family: "Biryani";  font-style: normal; font-weight:300 ; src: url('../fonts/biryani/Biryani-Light.ttf'); }
+@font-face {  font-family: "Biryani";  font-style: normal; font-weight:400 ; src: url('../fonts/biryani/Biryani-Regular.ttf'); }
+@font-face {  font-family: "Biryani";  font-style: normal; font-weight:600 ; src: url('../fonts/biryani/Biryani-SemiBold.ttf'); }
+@font-face {  font-family: "Biryani";  font-style: normal; font-weight:700 ; src: url('../fonts/biryani/Biryani-Bold.ttf'); }
+@font-face {  font-family: "Biryani";  font-style: normal; font-weight:800 ; src: url('../fonts/biryani/Biryani-ExtraBold.ttf'); }
+@font-face {  font-family: "Biryani";  font-style: normal; font-weight:900 ; src: url('../fonts/biryani/Biryani-Black.ttf'); }
+
+@font-face {  font-family: "Kurale";  font-style: normal; font-weight:400 ; src: url('../fonts/kurale/Kurale-Regular.ttf'); }
+
+@font-face {  font-family: "Martel";  font-style: normal; font-weight:200 ; src: url('../fonts/martel/Martel-ExtraLight.ttf'); }
+@font-face {  font-family: "Martel";  font-style: normal; font-weight:300 ; src: url('../fonts/martel/Martel-Light.ttf'); }
+@font-face {  font-family: "Martel";  font-style: normal; font-weight:400 ; src: url('../fonts/martel/Martel-Regular.ttf'); }
+@font-face {  font-family: "Martel";  font-style: normal; font-weight:600 ; src: url('../fonts/martel/Martel-SemiBold.ttf'); }
+@font-face {  font-family: "Martel";  font-style: normal; font-weight:700 ; src: url('../fonts/martel/Martel-Bold.ttf'); }
+@font-face {  font-family: "Martel";  font-style: normal; font-weight:800 ; src: url('../fonts/martel/Martel-ExtraBold.ttf'); }
+@font-face {  font-family: "Martel";  font-style: normal; font-weight:900 ; src: url('../fonts/martel/Martel-Black.ttf'); }
+
+@font-face {  font-family: "Arima Madurai";  font-style: normal; font-weight:100 ; src: url('../fonts/arima-madurai/ArimaMadurai-Thin.ttf'); }
+@font-face {  font-family: "Arima Madurai";  font-style: normal; font-weight:200 ; src: url('../fonts/arima-madurai/ArimaMadurai-ExtraLight.ttf'); }
+@font-face {  font-family: "Arima Madurai";  font-style: normal; font-weight:300 ; src: url('../fonts/arima-madurai/ArimaMadurai-Light.ttf'); }
+@font-face {  font-family: "Arima Madurai";  font-style: normal; font-weight:400 ; src: url('../fonts/arima-madurai/ArimaMadurai-Regular.ttf'); }
+@font-face {  font-family: "Arima Madurai";  font-style: normal; font-weight:500 ; src: url('../fonts/arima-madurai/ArimaMadurai-Medium.ttf'); }
+@font-face {  font-family: "Arima Madurai";  font-style: normal; font-weight:700 ; src: url('../fonts/arima-madurai/ArimaMadurai-Bold.ttf'); }
+@font-face {  font-family: "Arima Madurai";  font-style: normal; font-weight:800 ; src: url('../fonts/arima-madurai/ArimaMadurai-ExtraBold.ttf'); }
+@font-face {  font-family: "Arima Madurai";  font-style: normal; font-weight:900 ; src: url('../fonts/arima-madurai/ArimaMadurai-Black.ttf'); }

@@ -1,0 +1,198 @@
+/********************* (LIGHT) **********************/
+.rp-background-light {
+  background-color: #F4EBD0 !important; }
+
+.rp-text-light {
+  color: #F4EBD0 !important; }
+
+.rp-border-bottom-light {
+  border-bottom-color: #F4EBD0 !important;
+  border-bottom-width: 1px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 1px solid #F4EBD0 !important; }
+
+.rp-border-top-light {
+  border-top-color: #F4EBD0 !important;
+  border-top-width: 1px !important;
+  border-top-style: solid !important;
+  border-top: 1px solid #F4EBD0 !important; }
+
+.rp-border-light {
+  border-color: #F4EBD0 !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border: 1px solid #F4EBD0 !important; }
+
+/********************************************************/
+/********************* (DARKER) ********************/
+.rp-background-darker {
+  background-color: #285548 !important; }
+
+.rp-text-darker {
+  color: #285548 !important; }
+
+.rp-border-bottom-darker {
+  border-bottom-color: #285548 !important;
+  border-bottom-width: 1px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 1px solid #285548 !important; }
+
+.rp-border-top-darker {
+  border-top-color: #285548 !important;
+  border-top-width: 1px !important;
+  border-top-style: solid !important;
+  border-top: 1px solid #285548 !important; }
+
+.rp-border-darker {
+  border-color: #285548 !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border: 1px solid #285548 !important; }
+
+/********************************************************/
+/********************* (DARKEST) ********************/
+.rp-background-darkest {
+  background-color: #122620 !important; }
+
+.rp-text-darkest {
+  color: #122620 !important; }
+
+.rp-border-bottom-darkest {
+  border-bottom-color: #122620 !important;
+  border-bottom-width: 1px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 1px solid #122620 !important; }
+
+.rp-border-top-darkest {
+  border-top-color: #122620 !important;
+  border-top-width: 1px !important;
+  border-top-style: solid !important;
+  border-top: 1px solid #122620 !important; }
+
+.rp-border-darkest {
+  border-color: #122620 !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border: 1px solid #122620 !important; }
+
+/********************************************************/
+/********************* (LIGHTEST) ********************/
+.rp-background-lightest {
+  background-color: #EBF4D0 !important; }
+
+.rp-text-lightest {
+  color: #EBF4D0 !important; }
+
+.rp-border-bottom-lightest {
+  border-bottom-color: #EBF4D0 !important;
+  border-bottom-width: 1px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 1px solid #EBF4D0 !important; }
+
+.rp-border-top-lightest {
+  border-top-color: #EBF4D0 !important;
+  border-top-width: 1px !important;
+  border-top-style: solid !important;
+  border-top: 1px solid #EBF4D0 !important; }
+
+.rp-border-lightest {
+  border-color: #EBF4D0 !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border: 1px solid #EBF4D0 !important; }
+
+/********************************************************/
+/********************* (LIGHTER) ********************/
+.rp-background-lighter {
+  background-color: #F4EBD0 !important; }
+
+.rp-text-lighter {
+  color: #F4EBD0 !important; }
+
+.rp-border-bottom-lighter {
+  border-bottom-color: #F4EBD0 !important;
+  border-bottom-width: 1px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 1px solid #F4EBD0 !important; }
+
+.rp-border-top-lighter {
+  border-top-color: #F4EBD0 !important;
+  border-top-width: 1px !important;
+  border-top-style: solid !important;
+  border-top: 1px solid #F4EBD0 !important; }
+
+.rp-border-lighter {
+  border-color: #F4EBD0 !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border: 1px solid #F4EBD0 !important; }
+
+/********************************************************/
+/********************* (DARK) **********************/
+.rp-background-dark {
+  background-color: #108360 !important; }
+
+.rp-text-dark {
+  color: #108360 !important; }
+
+.rp-border-bottom-dark {
+  border-bottom-color: #108360 !important;
+  border-bottom-width: 1px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 1px solid #108360 !important; }
+
+.rp-border-top-dark {
+  border-top-color: #108360 !important;
+  border-top-width: 1px !important;
+  border-top-style: solid !important;
+  border-top: 1px solid #108360 !important; }
+
+.rp-border-dark {
+  border-color: #108360 !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border: 1px solid #108360 !important; }
+
+/********************************************************/
+/********************* (HIGHLIGHT) **********************/
+.rp-background-highlight {
+  background-color: #DE4242 !important; }
+
+.rp-text-highlight {
+  color: #DE4242 !important; }
+
+.rp-border-bottom-highlight {
+  border-bottom-color: #DE4242 !important;
+  border-bottom-width: 1px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 1px solid #DE4242 !important; }
+
+.rp-border-top-highlight {
+  border-top-color: #DE4242 !important;
+  border-top-width: 1px !important;
+  border-top-style: solid !important;
+  border-top: 1px solid #DE4242 !important; }
+
+.rp-border-highlight {
+  border-color: #DE4242 !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border: 1px solid #DE4242 !important; }
+
+/********************************************************/
+/********************* COMBINATIONS ********************/
+a.rp-link-hover:hover {
+  text-decoration: underline;
+  color: #285548 !important;
+  background-color: #F4EBD0 !important; }
+
+/********************************************************/
+/********************* OVERRIDES ********************/
+.pswp__bg {
+  background: #122620 !important;
+  background-color: #122620 !important; }
+
+.pswp__caption__center {
+  color: #EBF4D0 !important; }
+
+/********************************************************/

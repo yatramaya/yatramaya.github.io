@@ -1,0 +1,64 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.section {
+	overflow-x: hidden !important;
+}
+
+.rp-background-image-1 {
+	background-image: url('../images/bg.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.rp-background-image-4 {
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.rp-background-image-3 {
+	background-image: url('../images/bg_three.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.rp-background-image {	
+	background-image: url('../images/bg.jpg') !important;
+	background-attachment: fixed !important;
+	background-size: 100% auto !important;
+	height: 500px !important;	
+}
+
+.rp-sticky-menu {
+	position: -webkit-sticky !important;
+	position: sticky  !important;
+	top: 0  !important;
+	z-index: 100  !important;
+}
+
+.rp-sticky-menu-bottom {
+	position: -webkit-sticky !important;
+	position: sticky  !important;
+	bottom: 0  !important;
+	z-index: 100  !important;
+}
+
+.rp-sticky-menu-2 {
+	position: -webkit-sticky !important;
+	position: sticky  !important;
+	top: 0  !important;
+	z-index: 3  !important;
+	float: left;
+}
+
+.rp-background-translucent-white {
+    background: transparent;
+	background-image: url('../images/translucent.png');
+}
