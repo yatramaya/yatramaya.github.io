@@ -1,606 +1,553 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yātrāmaya</title>
-    <link>https://yatramaya.hoatz.in/.html</link>
-    <description>Recent content on Yātrāmaya</description>
+    <title>Home on Yātrāmaya</title>
+    <link>https://yatramaya.hoatz.in/</link>
+    <description>Recent content in Home on Yātrāmaya</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://yatramaya.hoatz.in/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 07:54:34 +0530</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2014</title>
-      <link>https://yatramaya.hoatz.in/year/2014.html</link>
+      <title>Andaman Stargazing</title>
+      <link>https://yatramaya.hoatz.in/experiences/andaman-stargazing.html</link>
       <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/year/2014.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/andaman-stargazing.html</guid>
+      <description>I had this strange feeling of undeserved-ness when we sat there. My toes were digging into the sand into which a lot other tiny life forms were running into. The sea spoke with the same fervour, sometimes a little of it even caressing us as tiny droplets. It was just too good, just too real for it to be happening to us. The beach stretched miles to either side; usually we would be sharing it with a whole lot of humanity.</description>
     </item>
     
     <item>
-      <title>April</title>
-      <link>https://yatramaya.hoatz.in/month/april.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/month/april.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asia</title>
-      <link>https://yatramaya.hoatz.in/continents/asia.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/continents/asia.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beach</title>
-      <link>https://yatramaya.hoatz.in/types/beach.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/beach.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continents</title>
-      <link>https://yatramaya.hoatz.in/continents.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/continents.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Countries</title>
-      <link>https://yatramaya.hoatz.in/countries.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Duration</title>
-      <link>https://yatramaya.hoatz.in/duration.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/duration.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>essay</title>
-      <link>https://yatramaya.hoatz.in/medium/essay.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/medium/essay.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Half Day</title>
-      <link>https://yatramaya.hoatz.in/duration/half-day.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/duration/half-day.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>India</title>
-      <link>https://yatramaya.hoatz.in/countries/india.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/india.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Medium</title>
-      <link>https://yatramaya.hoatz.in/medium.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/medium.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Month</title>
-      <link>https://yatramaya.hoatz.in/month.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/month.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nature</title>
-      <link>https://yatramaya.hoatz.in/types/nature.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/nature.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Types</title>
-      <link>https://yatramaya.hoatz.in/types.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Year</title>
-      <link>https://yatramaya.hoatz.in/year.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/year.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2018</title>
-      <link>https://yatramaya.hoatz.in/year/2018.html</link>
+      <title>Dead Sea : World&#39;s Largest Outdoor Spa</title>
+      <link>https://yatramaya.hoatz.in/experiences/dead-sea-worlds-largest-outdoor-spa.html</link>
       <pubDate>Thu, 27 Jul 2023 19:05:14 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/year/2018.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/dead-sea-worlds-largest-outdoor-spa.html</guid>
+      <description>You went to Jordan and you did not go to the Dead Sea? I did not want to hear this. Also I had heard so much about the Dead Sea in school. The Dead Sea is a unique place where the salt content is so high that you cannot sink. I had to experience this. On our last leg of journey from Wadi Rum to Madaba, we wanted to cover the Dead Sea.</description>
     </item>
     
     <item>
-      <title>Jordan</title>
-      <link>https://yatramaya.hoatz.in/countries/jordan.html</link>
-      <pubDate>Thu, 27 Jul 2023 19:05:14 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/jordan.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi Day</title>
-      <link>https://yatramaya.hoatz.in/duration/multi-day.html</link>
+      <title>Yellowstone More to It Than Geysers</title>
+      <link>https://yatramaya.hoatz.in/experiences/yellowstone-more-to-it-than-geysers.html</link>
       <pubDate>Thu, 27 Jul 2023 18:51:39 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/duration/multi-day.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/yellowstone-more-to-it-than-geysers.html</guid>
+      <description>The friendly immigration officer was excited when I told him that I plan to visit Yellowstone National Park. He was from the same State, Wyoming. He said that if there was one place that one cannot really miss in the United States, it has got to be Yellowstone. I thanked him for his visa-stamping, generosity and his friendly advice. The drive from Salt Lake City to Jackson hole was through some of the most beautiful landscapes - vast areas of nothingness, beautiful rock formations and canyons in unbelievable shapes; everything in various shades of brown.</description>
     </item>
     
     <item>
-      <title>North America</title>
-      <link>https://yatramaya.hoatz.in/continents/north-america.html</link>
-      <pubDate>Thu, 27 Jul 2023 18:51:39 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/continents/north-america.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>October</title>
-      <link>https://yatramaya.hoatz.in/month/october.html</link>
-      <pubDate>Thu, 27 Jul 2023 18:51:39 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/month/october.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>United States of America</title>
-      <link>https://yatramaya.hoatz.in/countries/united-states-of-america.html</link>
-      <pubDate>Thu, 27 Jul 2023 18:51:39 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/united-states-of-america.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trekking</title>
-      <link>https://yatramaya.hoatz.in/types/trekking.html</link>
+      <title>A Modest Trek Through a Grand Canyon</title>
+      <link>https://yatramaya.hoatz.in/experiences/a-modest-trek-through-a-grand-canyon.html</link>
       <pubDate>Thu, 27 Jul 2023 18:43:05 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/types/trekking.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/a-modest-trek-through-a-grand-canyon.html</guid>
+      <description>When someone I met recently was reciting the checklist of places he visited in the US and he mentioned New York, Vegas and Grand Canyon in one sentence, it disturbed me. He had achieved the feat of covering Grand Canyon within a day, from a helicopter, looking below. &amp;ldquo;Oh here&amp;rsquo;s the Grand Canyon. I&amp;rsquo;m done seeing it. Checked. Let&amp;rsquo;s move on&amp;rdquo;. I started thinking if that was possible at all for any place, let alone something as mammoth as the Grand Canyon, which has &amp;ldquo;grand&amp;rdquo; in its name itself.</description>
     </item>
     
     <item>
-      <title>2013</title>
-      <link>https://yatramaya.hoatz.in/year/2013.html</link>
+      <title>Work Hard Beach Soft</title>
+      <link>https://yatramaya.hoatz.in/experiences/work-hard-beach-soft.html</link>
       <pubDate>Wed, 19 Jul 2023 06:54:19 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/year/2013.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/work-hard-beach-soft.html</guid>
+      <description>As we drove farther to the west, the landscape changed from the usual staple of large buildings with their even-larger parking lots, to one, that in appearance, had a little more of what I conjure up in my mind whenever I come across the word &amp;lsquo;California&amp;rsquo;. A friend of mine had once told me I&amp;rsquo;d fit right in because I was a tree-hugger. In the literal sense of that term, at least, this seemed the most likely possibility as I witnessed here some of the largest, tallest and oldest redwood trees; trees whose circumference would have made me look like an insect hanging on to the bark when attempting to hug one.</description>
     </item>
     
     <item>
-      <title>February</title>
-      <link>https://yatramaya.hoatz.in/month/february.html</link>
-      <pubDate>Wed, 19 Jul 2023 06:54:19 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/month/february.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2022</title>
-      <link>https://yatramaya.hoatz.in/year/2022.html</link>
+      <title>The Improbability of Castle Rock</title>
+      <link>https://yatramaya.hoatz.in/experiences/the-improbability-of-castle-rock.html</link>
       <pubDate>Tue, 11 Jul 2023 08:43:33 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/year/2022.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/the-improbability-of-castle-rock.html</guid>
+      <description>Technically, Castlerock is only half a day away from some of the largest cities and innumerable towns of North Karnataka. For that matter, this little village (to use the official term for the place), is only a stone&amp;rsquo;s throw away from the touristy destinations such as Goa. But technicalities do not matter, because despite its long history, Castlerock seems to insist on folding itself away into a corner of the Western Ghats, mostly untouched by whatever is happening a few 100 kilometres around.</description>
     </item>
     
     <item>
-      <title>Forest</title>
-      <link>https://yatramaya.hoatz.in/types/forest.html</link>
-      <pubDate>Tue, 11 Jul 2023 08:43:33 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/forest.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>November</title>
-      <link>https://yatramaya.hoatz.in/month/november.html</link>
-      <pubDate>Tue, 11 Jul 2023 08:43:33 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/month/november.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wildlife</title>
-      <link>https://yatramaya.hoatz.in/types/wildlife.html</link>
-      <pubDate>Tue, 11 Jul 2023 08:43:33 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/wildlife.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2008</title>
-      <link>https://yatramaya.hoatz.in/year/2008.html</link>
+      <title>Keylong : A Few Days before Cut-Off</title>
+      <link>https://yatramaya.hoatz.in/experiences/keylong-a-few-days-before-cut-off.html</link>
       <pubDate>Mon, 06 Mar 2023 07:35:05 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/year/2008.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/keylong-a-few-days-before-cut-off.html</guid>
+      <description>We were on our way down from Shasur Gompa. The Gompa visit was a self-guided tour and hence it was limited to looking around at flags, murals and ubiquitous style and architecture that we had seen before and making up our own stories and assumptions. But I was sure we missed a lot. There must have been a larger history and then a local history. There must have been some drama and a legend and a myth.</description>
     </item>
     
     <item>
-      <title>Culture</title>
-      <link>https://yatramaya.hoatz.in/types/culture.html</link>
-      <pubDate>Mon, 06 Mar 2023 07:35:05 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/culture.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mountain</title>
-      <link>https://yatramaya.hoatz.in/types/mountain.html</link>
-      <pubDate>Mon, 06 Mar 2023 07:35:05 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/mountain.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>https://yatramaya.hoatz.in/types/people.html</link>
-      <pubDate>Mon, 06 Mar 2023 07:35:05 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/people.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>September</title>
-      <link>https://yatramaya.hoatz.in/month/september.html</link>
-      <pubDate>Mon, 06 Mar 2023 07:35:05 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/month/september.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Africa</title>
-      <link>https://yatramaya.hoatz.in/continents/africa.html</link>
+      <title>Land Border Crossing From Kenya to Uganda</title>
+      <link>https://yatramaya.hoatz.in/experiences/land-border-crossing-from-kenya-to-uganda.html</link>
       <pubDate>Sun, 05 Mar 2023 06:07:37 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/continents/africa.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/land-border-crossing-from-kenya-to-uganda.html</guid>
+      <description>They say, there is always a first time for everything. I remember some of my firsts and not all of them are pleasant ones. As the bus pulled up into a nondescript corner of the street and the conductor announced that we had arrived, I felt another first; anxious thoughts about the next few minutes. The last few hours were spent in the knowledge of what we were up to but anxiety had not taken over due to the novelty of what was on offer.</description>
     </item>
     
     <item>
-      <title>Kenya</title>
-      <link>https://yatramaya.hoatz.in/countries/kenya.html</link>
-      <pubDate>Sun, 05 Mar 2023 06:07:37 +0530</pubDate>
+      <title>Walking the Maara With the Masai</title>
+      <link>https://yatramaya.hoatz.in/experiences/walking-the-maara-with-maasai.html</link>
+      <pubDate>Sat, 04 Mar 2023 06:50:06 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/countries/kenya.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/walking-the-maara-with-maasai.html</guid>
+      <description>&amp;ldquo;Could you repeat that?&amp;rdquo; I asked.
+&amp;ldquo;Born during the rains from Sangok,&amp;rdquo; he said.
+He was taller than me but not so tall as to undeniably fit the bill as a typical Masai; anywhere between 35 and 40 years of age. He wore a traditional Masai outfit that betrayed a bit of its costume nature thanks to being prim, proper and perhaps ironed out. A day before that, during the drive here I had seen a few Masai villagers who walked the road, with dust that refused to part with their faces and clothes.</description>
     </item>
     
     <item>
-      <title>Roadtrip</title>
-      <link>https://yatramaya.hoatz.in/types/roadtrip.html</link>
-      <pubDate>Sun, 05 Mar 2023 06:07:37 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/roadtrip.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uganda</title>
-      <link>https://yatramaya.hoatz.in/countries/uganda.html</link>
-      <pubDate>Sun, 05 Mar 2023 06:07:37 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/uganda.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2019</title>
-      <link>https://yatramaya.hoatz.in/year/2019.html</link>
+      <title>Getting Stuck at Tumbes</title>
+      <link>https://yatramaya.hoatz.in/experiences/getting-stuck-at-tumbes.html</link>
       <pubDate>Tue, 28 Feb 2023 05:15:17 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/year/2019.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/getting-stuck-at-tumbes.html</guid>
+      <description>If getting to Tumbes wasn&amp;rsquo;t easy, getting out wasn&amp;rsquo;t any easier either. As I sat staring at the news-reporter on the TV and reading the news-ticker which was in English reporting on the riots in Ecuador, I felt completely helpless and hopeless. All the local TV channels were reporting on the same topic and no amount of switching channels was going to change anything for us. We were simply destined to be stuck in that mostly unknown border town till something changed radically in the next few days or we retreated in defeat.</description>
     </item>
     
     <item>
-      <title>City</title>
-      <link>https://yatramaya.hoatz.in/types/city.html</link>
-      <pubDate>Tue, 28 Feb 2023 05:15:17 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/city.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Historical</title>
-      <link>https://yatramaya.hoatz.in/types/historical.html</link>
-      <pubDate>Tue, 28 Feb 2023 05:15:17 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/historical.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Market</title>
-      <link>https://yatramaya.hoatz.in/types/market.html</link>
-      <pubDate>Tue, 28 Feb 2023 05:15:17 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/market.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peru</title>
-      <link>https://yatramaya.hoatz.in/countries/peru.html</link>
-      <pubDate>Tue, 28 Feb 2023 05:15:17 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/peru.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>South America</title>
-      <link>https://yatramaya.hoatz.in/continents/south-america.html</link>
-      <pubDate>Tue, 28 Feb 2023 05:15:17 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/continents/south-america.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>River</title>
-      <link>https://yatramaya.hoatz.in/types/river.html</link>
+      <title>The Amazon and its Tributaries</title>
+      <link>https://yatramaya.hoatz.in/experiences/the-amazon-and-its-tributaries.html</link>
       <pubDate>Tue, 28 Feb 2023 05:06:19 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/types/river.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/the-amazon-and-its-tributaries.html</guid>
+      <description>It was exactly how I had imagined it; perhaps better than that, because I remember sitting on that boat spellbound and self-aware that I had gone very quiet. The boat was navigating through the Maranon river in whose waters reflected the rising sun. The reflection moved ahead as we did ever so slowly, unhurried by the seeming speed that was implied by the engine itself which was the only thing I can remember as noise.</description>
     </item>
     
     <item>
-      <title>2017</title>
-      <link>https://yatramaya.hoatz.in/year/2017.html</link>
+      <title>Homes on Stilts in the Amazon</title>
+      <link>https://yatramaya.hoatz.in/experiences/homes-on-stilts-in-the-amazon.html</link>
+      <pubDate>Mon, 27 Feb 2023 05:41:54 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/homes-on-stilts-in-the-amazon.html</guid>
+      <description>The bare-bones dwelling on stilts appeared like creatures that could discreetly shy away inland when the river asserts its rights annually. I was excited like never before to step inside, as Jana (pronounced Yaana) explained the basics to us. Jana was a volunteer with the organization. She spoke with passion about the project; its mission and accomplishments. But mainly, she paused to speak about the mosquitoes when I inquired. I did not have an original inquiry.</description>
+    </item>
+    
+    <item>
+      <title>A Short Trek to a Lake in the Sky</title>
+      <link>https://yatramaya.hoatz.in/experiences/a-short-trek-to-a-lake-in-the-sky.html</link>
       <pubDate>Mon, 20 Feb 2023 06:08:21 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/year/2017.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/a-short-trek-to-a-lake-in-the-sky.html</guid>
+      <description>Our host, over evening cup of hot tea mentioned about the Dhankar lake that was a must visit. I was happy that there were not many guests either at our homestay or any other around, which meant that there would be lesser crowds at the lake the next morning. Our host offered to pack us Aloo Paranthas to carry on our little expedition. We started off on a trail from Dhankar Gompa that would take us further higher by another 200-300 metres, to this high altitude lake at 4150 meters.</description>
     </item>
     
     <item>
-      <title>August</title>
-      <link>https://yatramaya.hoatz.in/month/august.html</link>
+      <title>Bryce : A Living Planetarium</title>
+      <link>https://yatramaya.hoatz.in/experiences/bryce-a-living-planetarium.html</link>
+      <pubDate>Thu, 09 Feb 2023 05:08:07 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/bryce-a-living-planetarium.html</guid>
+      <description>It was not easy to comprehend the uniqueness of what was going on. There he was, a seemingly ordinary Park Ranger as he stood with his hands inside the pockets of his jacket to beat the chill of the night while he gave us a short lecture on what we were about to do and witness. I looked around. We were twenty of us who had signed up for the event, standing around in a circle.</description>
+    </item>
+    
+    <item>
+      <title>Manali : Strangers Meet Like Friends</title>
+      <link>https://yatramaya.hoatz.in/experiences/manali-strangers-meet-like-friends.html</link>
+      <pubDate>Tue, 07 Feb 2023 13:49:29 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/manali-strangers-meet-like-friends.html</guid>
+      <description>It wasn&amp;rsquo;t an unusual year by any standards. And if the changes in climate had already manifested into something palpable, then we did not know about it. We were three of us, and one of us was local.
+&amp;ldquo;It should have snowed by now&amp;rdquo;, Brajesh said as he gestured us to pick up our two glasses of piping hot tea that were on a steel plate. He was already sipping his.</description>
+    </item>
+    
+    <item>
+      <title>The Amazonian Community of San Jose de Uchupiamonas</title>
+      <link>https://yatramaya.hoatz.in/experiences/amazonian-community-of-san-jose-de-uchupiamonas.html</link>
       <pubDate>Wed, 01 Feb 2023 10:59:40 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/month/august.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/amazonian-community-of-san-jose-de-uchupiamonas.html</guid>
+      <description>Very soon, the driver of our car sounded excited and stopped the car by the side of the road. Soon, we were all looking in the direction where he was looking. He had spotted some furry animals; extremely cute rodents. 5 or 6 young ones of the Capybara. The mother was nearby, quite large in comparison. Soon she and her flock disappeared into a burrow. This was our first sighting of Capybaras and we were extremely happy to see them from so near, just by the side of the road.</description>
     </item>
     
     <item>
-      <title>Bolivia</title>
-      <link>https://yatramaya.hoatz.in/countries/bolivia.html</link>
-      <pubDate>Wed, 01 Feb 2023 10:59:40 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/bolivia.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2020</title>
-      <link>https://yatramaya.hoatz.in/year/2020.html</link>
+      <title>Bulbuls in my backyard</title>
+      <link>https://yatramaya.hoatz.in/experiences/bulbuls-in-my-backyard.html</link>
       <pubDate>Mon, 30 Jan 2023 18:57:57 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/year/2020.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/bulbuls-in-my-backyard.html</guid>
+      <description>When a bulbul pair visits your backyard frequently, converse with each other incessantly, you get the feeling that you are about to witness something exciting. The fact that this was happening during a time when I apparently had a lot of free time to sit and take note of my surroundings was serendipitous. I decided to keep my camera handy. Although I try to take an observant position consciously, the animal rehabilitator in me compels me to intervene; especially when I saw that they had very carefully chosen the thin intersection of the clothesline and the overhead rod to start building their nest.</description>
     </item>
     
     <item>
-      <title>Full Day</title>
-      <link>https://yatramaya.hoatz.in/duration/full-day.html</link>
+      <title>Yellowstone where the Bisons still roam free</title>
+      <link>https://yatramaya.hoatz.in/experiences/yellowstone-where-the-bisons-still-roam-free.html</link>
+      <pubDate>Sun, 29 Jan 2023 22:13:30 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/yellowstone-where-the-bisons-still-roam-free.html</guid>
+      <description>Vast stretches of grasslands till the horizon, spreading a greenish yellow carpet. The mountains far away decorate the edges of the grasslands. This land was owned by large herds of bison a long time ago till the western civilization set foot on the continent. The bison were bigger compared to their relatively smaller descendants we still see at Yellowstone today. The herds were larger too, of a scale that probably we might find it hard to imagine.</description>
+    </item>
+    
+    <item>
+      <title>A Night at Southbeach Miami</title>
+      <link>https://yatramaya.hoatz.in/experiences/a-night-at-southbeach-miami.html</link>
+      <pubDate>Sun, 29 Jan 2023 22:09:04 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/a-night-at-southbeach-miami.html</guid>
+      <description>It was our attempt to soak in as much Miami as we could in the short time we spent at South Beach. Night life at South Beach was exactly how I had visualized from my exposure to American films. It was all a grand party, a party that was on every night, without a break. So, we got ready to join this party, first as observers, from the periphery, then making our entry into this fantasy world of neon lights, loud Latino music, dance parties, speeding auto-mobiles and unlimited cocktails.</description>
+    </item>
+    
+    <item>
+      <title>Bonding with Boda Boda driver over football</title>
+      <link>https://yatramaya.hoatz.in/experiences/bonding-with-bodaboda-driver-over-football.html</link>
+      <pubDate>Sun, 29 Jan 2023 21:59:40 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/bonding-with-bodaboda-driver-over-football.html</guid>
+      <description>Leaving Bwindi Impenetrable rainforests was quite painful. Very soon we would be pushed from pristine rainforests to flatlands in no time, and it also meant dealing with more people. I took in my last sights and smells to the fullest - the starlit sky, the fresh cool mountain air and the huge dark shadows in the backdrop of the mountains that were not yet visible before day break. We had to leave at 6am, which meant most of the work, like packing up our tent, having a good cup of morning coffee and saying goodbyes to our hosts had to be done in the cold and in darkness.</description>
+    </item>
+    
+    <item>
+      <title>Drive Through Ishasha</title>
+      <link>https://yatramaya.hoatz.in/experiences/drive-through-ishasha.html</link>
+      <pubDate>Sun, 29 Jan 2023 21:59:40 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/drive-through-ishasha.html</guid>
+      <description>On the streets of the small town Kihiihi, we sat found an empty taxi and quickly boarded it. As we had the breakfast that we had packed from Bwindi, we saw that the shops were just starting to open. We saw them getting ready for the day by arranging their display pieces outside and cleaning the entrances. There were many people all dressed up and purposeful, walking in a single direction and very excited.</description>
+    </item>
+    
+    <item>
+      <title>Camping by the Nile</title>
+      <link>https://yatramaya.hoatz.in/experiences/camping-by-the-nile.html</link>
+      <pubDate>Sun, 29 Jan 2023 21:57:58 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/camping-by-the-nile.html</guid>
+      <description>After a nerve-wracking boda boda ride, we arrived at the gate of Nile River Explorers parched, exhausted and covered in mud. What I saw inside immediately lifted my mood; smiling faces, a bar overlooking the Nile and clean bathrooms. All I needed was a refreshing shower and a chilled beer. Both were readily available. Soon I found myself watching a group of macaques through my binoculars as I sipped beer at one of the river-front tables.</description>
+    </item>
+    
+    <item>
+      <title>Moving With the Mail</title>
+      <link>https://yatramaya.hoatz.in/experiences/moving-with-the-mail.html</link>
       <pubDate>Sun, 29 Jan 2023 21:56:24 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/duration/full-day.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/moving-with-the-mail.html</guid>
+      <description>I had read about the post bus: a bus service run by the postal department of Uganda. However, nothing that I had read would prepare us for what we were about to go through. At 4:30am, lugging our heavy backpacks, we undertook a short, yet scary walk through the roads of Kampala to reach the post office. In most parts of Uganda, especially in busy market areas of down-town Kampala, where we stayed, near the bus stand, we were afraid of getting mugged while walking in the darkness.</description>
     </item>
     
     <item>
-      <title>Europe</title>
-      <link>https://yatramaya.hoatz.in/continents/europe.html</link>
+      <title>The Whirling Dervishes of Turkey</title>
+      <link>https://yatramaya.hoatz.in/experiences/the-whirling-dervishes-of-turkey.html</link>
       <pubDate>Sun, 29 Jan 2023 21:52:04 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/continents/europe.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/the-whirling-dervishes-of-turkey.html</guid>
+      <description>Istanbul&amp;rsquo;s reputation as a historical city with great culture and tradition was one of the reasons we decided to generously let it occupy a greater part of our Turkey trip. While reading about the culture, I came upon its Sufi tradition, known as the Mevlevi Order; inspired by &amp;ldquo;Mevlana&amp;rdquo; Rumi, the famous Islamic mystical poet and spiritual master. Sufism is a form of Islam which emphasizes the inward search for God through direct connect and promotes realization of God through love and music.</description>
     </item>
     
     <item>
-      <title>Turkey</title>
-      <link>https://yatramaya.hoatz.in/countries/turkey.html</link>
-      <pubDate>Sun, 29 Jan 2023 21:52:04 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/turkey.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Food</title>
-      <link>https://yatramaya.hoatz.in/types/food.html</link>
+      <title>Volunteering for Food</title>
+      <link>https://yatramaya.hoatz.in/experiences/volunteering-for-food.html</link>
       <pubDate>Sun, 29 Jan 2023 21:36:01 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/types/food.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/volunteering-for-food.html</guid>
+      <description>&amp;ldquo;Why we chose Bunda, or should I say, why Bunda chose us?&amp;rdquo; our host Aysha spoke of her reason for choosing to make this sleepy village her home. I sat in front of her nervously, hoping that the voice was clearly recording and we would complete the interview in a single take. She was dressed up for the interview, had rehearsed the questions, but we chose to keep the interview itself spontaneous, impromptu and she was eager to get it right.</description>
     </item>
     
     <item>
-      <title>March</title>
-      <link>https://yatramaya.hoatz.in/month/march.html</link>
-      <pubDate>Sun, 29 Jan 2023 21:36:01 +0530</pubDate>
+      <title>Land Border Crossing from Kenya to Tanzania</title>
+      <link>https://yatramaya.hoatz.in/experiences/land-border-crossing-from-kenya-to-tanzania.html</link>
+      <pubDate>Sun, 29 Jan 2023 21:31:49 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/month/march.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/land-border-crossing-from-kenya-to-tanzania.html</guid>
+      <description>We left Kisii early in the morning, after a breakfast consisting of coffee and Mandazi. The Matatu stand was close to where we stayed and this gave us the advantage of walking right up to it with our backpacks. As expected, someone &amp;ldquo;fished&amp;rdquo; us and led us through the maze of Matatus parked to a specific one that said Kisii Direct. We had learned that &amp;ldquo;direct&amp;rdquo; means no changes/transfers midway. Then again, we knew enough by now - practical and experienced in this part of the world - that what they promised was not always what they delivered.</description>
     </item>
     
     <item>
-      <title>Tanzania</title>
-      <link>https://yatramaya.hoatz.in/countries/tanzania.html</link>
-      <pubDate>Sun, 29 Jan 2023 21:36:01 +0530</pubDate>
+      <title>Life in Spiti</title>
+      <link>https://yatramaya.hoatz.in/experiences/life-in-spiti.html</link>
+      <pubDate>Sun, 29 Jan 2023 21:22:41 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/countries/tanzania.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/life-in-spiti.html</guid>
+      <description>I sat there as though in a trance; watching how the horizontal yarn moved through the hundreds of threads that were hanging along the frame of the loom. Her hands moving rhythmically in a quick, yet, skilful way made me wonder how it might feel to sit there in solitude, patiently working on the pattern. It was meditative. I had a hundred questions to ask her. I hesitated. Would she get disturbed by my interruption and make a mistake?</description>
     </item>
     
     <item>
-      <title>2021</title>
-      <link>https://yatramaya.hoatz.in/year/2021.html</link>
+      <title>Howler Monkeys and the Ultimate Insult</title>
+      <link>https://yatramaya.hoatz.in/experiences/howler-monkeys-and-the-ultimate-insult.html</link>
+      <pubDate>Sun, 29 Jan 2023 09:24:27 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/howler-monkeys-and-the-ultimate-insult.html</guid>
+      <description>We had walked for almost four hours now. With the dense canopy, it was hard to gauge the exact time of the day. I was starting to become a bit weary trying to keep one foot in front of the other, very gently and as noiselessly as possible. The mosquitoes took advantage of my tiredness and launched a fresh assault. My ears had to stay alert to grasp any sign of monkeys or birds around.</description>
+    </item>
+    
+    <item>
+      <title>The Incan Holy Grail</title>
+      <link>https://yatramaya.hoatz.in/experiences/the-incan-holy-grail.html</link>
+      <pubDate>Sun, 29 Jan 2023 09:20:32 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/the-incan-holy-grail.html</guid>
+      <description>The early morning mist enhanced the view. I was surrounded by huge lush green mountains as our bus ascended, revealing various nooks and corners. The massive green mounds appeared to float in the mist, green rocks in a vast sea of white. The air was chilly outside our bus, getting colder with every bend of the ascent. I felt the excitement of having entered something sacred, something unspoilt and hidden. To reach this sacred site by walk might have been something more spiritual.</description>
+    </item>
+    
+    <item>
+      <title>Babbling on a clothesline</title>
+      <link>https://yatramaya.hoatz.in/experiences/babbling-on-a-clothesline.html</link>
       <pubDate>Sun, 29 Jan 2023 06:46:36 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/year/2021.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/babbling-on-a-clothesline.html</guid>
+      <description>A wet babbler jumped up on a clothesline under a shelter to escape the downpour. A moment ago she was busy pecking on the wet ground in search of insects and worms. With no sunshine the entire morning, birds were not at their chirpy best, they must be going through their mood swings too! The overcast skies covered everything in dull grey. The babblers still needed to look for their food.</description>
     </item>
     
     <item>
-      <title>Colombia</title>
-      <link>https://yatramaya.hoatz.in/countries/colombia.html</link>
+      <title>It is raining in Kerala!</title>
+      <link>https://yatramaya.hoatz.in/experiences/rains-kerala.html</link>
+      <pubDate>Sun, 29 Jan 2023 06:39:29 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/rains-kerala.html</guid>
+      <description>The leaves are bright green of various shades, all washed and cleaned. Everything turns green - the plants, trees, walls, the floor, there is fresh growth all around. The trees and plants have all drank to their fill and stored up water for the next season. The soil has soaked up water and is saturated. Small streams of brown water are making their way through previously non-existent routes to lower lands.</description>
+    </item>
+    
+    <item>
+      <title>From Nairobi to Narok</title>
+      <link>https://yatramaya.hoatz.in/experiences/from-nairobi-to-narok.html</link>
+      <pubDate>Sun, 29 Jan 2023 06:25:47 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/from-nairobi-to-narok.html</guid>
+      <description>The notorious reputation of Matatus that I had gathered from various forums preceded their appearance. This made me look at each of them with horror, like they were assassins. When I saw them while crossing the street, I would jump and step back, holding my partner&amp;rsquo;s hand tightly, with my eyes shut, as though, they were on a mission to kill; as if they would, at any time, veer off the road, into the footpath and run me over.</description>
+    </item>
+    
+    <item>
+      <title>Parque Arvi : Nature overlooking Medellin</title>
+      <link>https://yatramaya.hoatz.in/experiences/parque-arvi-nature-overlooking-medellin.html</link>
       <pubDate>Sun, 29 Jan 2023 06:04:48 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/countries/colombia.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/parque-arvi-nature-overlooking-medellin.html</guid>
+      <description>Lucky are the people of Medellin that just an hour away from the busy city is one of the most beautiful parks that has not just breathtaking scenery but also some amazing biodiversity. When we ended up a whole day late in Medellin, at night, after our harrowing flight without our bags, little did I know that the misfortunes we faced the previous day would be compensated manifold by allowing us an extra day in the city that was not earlier planned.</description>
     </item>
     
     <item>
-      <title>Chile</title>
-      <link>https://yatramaya.hoatz.in/countries/chile.html</link>
+      <title>Day trip to Playa Blanca, Colombia</title>
+      <link>https://yatramaya.hoatz.in/experiences/day-trip-to-playa-blanca-colombia.html</link>
+      <pubDate>Sun, 29 Jan 2023 05:57:05 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/day-trip-to-playa-blanca-colombia.html</guid>
+      <description>The thought of white sandy beaches with blue waters felt almost too good to be true. Tourists mostly head to Cartagena to experience exactly this. The Caribbean islands are famous for some of the most pristine and picturesque beaches in the world. We were surprisingly one of the few who were in Cartagena without a clear intention of soaking in the sun on one of these beaches. Reluctantly, one morning, we walked to one of the hostels which was arranging day tours to Playa Blanca, which, in Spanish, simply means the White Beach.</description>
+    </item>
+    
+    <item>
+      <title>By the Caribbean coast of Cartagena</title>
+      <link>https://yatramaya.hoatz.in/experiences/by-the-caribbean-coast-of-cartagena.html</link>
+      <pubDate>Sun, 29 Jan 2023 05:54:07 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/by-the-caribbean-coast-of-cartagena.html</guid>
+      <description>If you would find yourself stuck in a time loop, where you find yourself waking up in the same place each day for the rest of your life, where would you like it to be? When I ask myself this question, one of the places that came to my mind was Cartagena. This coastal city of Northern Colombia is one of those places that offers many experiences at the same time.</description>
+    </item>
+    
+    <item>
+      <title>Tallest Palm in the World</title>
+      <link>https://yatramaya.hoatz.in/experiences/tallest-palm-in-the-world.html</link>
+      <pubDate>Sun, 29 Jan 2023 05:47:40 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/tallest-palm-in-the-world.html</guid>
+      <description>I looked up a slender tree right in front of me, I lifted my head up and up, bent backwards as far as I could balance, but failed to see the crown. The morning sun was filtering through the scant crown of the giant palms blinding me as I squinted to gauge the full extent of its height. What seemed like a regular palm tree from a distance, unimpressive at a first glance, grew to unbelievable height as I approached it.</description>
+    </item>
+    
+    <item>
+      <title>No one can stop looking at Jardin</title>
+      <link>https://yatramaya.hoatz.in/experiences/no-one-can-stop-looking-at-jardin.html</link>
+      <pubDate>Sun, 29 Jan 2023 05:42:29 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/no-one-can-stop-looking-at-jardin.html</guid>
+      <description>I have many a times sifted through my memories to focus on the colourful postcards in my mind&amp;rsquo;s eye that for me represent Jardin, and I have wondered, what was it that I did there for a couple of days? As simple as it might sound, nothing really. Absolutely nothing if I were to be accurate. Yes. If there is a really good venue for doing nothing, then it had to be Jardin.</description>
+    </item>
+    
+    <item>
+      <title>Trip to a Bolivian Consulate</title>
+      <link>https://yatramaya.hoatz.in/experiences/trip-to-a-bolivian-consulate.html</link>
       <pubDate>Sun, 29 Jan 2023 05:30:10 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/countries/chile.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/trip-to-a-bolivian-consulate.html</guid>
+      <description>Most of the tourists who land at the Calama Airport in Northern Chile have but one purpose which is to book a direct taxi to their real destination, San Pedro de Atacama, the jewel of the Atacama desert, a picturesque town that is tailored around tourism. Calama, on the other hand is a mining town visited by workers - both short and long term - and people who have some business connected to mining.</description>
     </item>
     
     <item>
-      <title>Alaska</title>
-      <link>https://yatramaya.hoatz.in/countries/alaska.html</link>
+      <title>Lounge-birding at Sadiri lodge</title>
+      <link>https://yatramaya.hoatz.in/experiences/lounge-birding-at-sadiri-lodge.html</link>
+      <pubDate>Sun, 29 Jan 2023 05:24:31 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/lounge-birding-at-sadiri-lodge.html</guid>
+      <description>We got a glimpse of what we would experience after 3 days when we stepped into Sadiri Lodge briefly to put away some our clothes that we wouldn&amp;rsquo;t be needing during the camping. The lodge was located on a hill, the steep slope of which was lined with a stone-pitched stairway that we arduously climbed. The entrance of the prominent looking building, completely built of wood, led to the dining hall with a large balcony overlooking the dramatic mountain ranges of Amazon rainforests.</description>
+    </item>
+    
+    <item>
+      <title>Birdwatching in the Bolivian Amazon</title>
+      <link>https://yatramaya.hoatz.in/experiences/amazing-birds-of-amazon.html</link>
+      <pubDate>Sun, 29 Jan 2023 05:17:41 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/amazing-birds-of-amazon.html</guid>
+      <description>If I had one favourite species, which bird would I really like to see? That was the question posed to me by Ricardo, our guide. My ambitious yet truthful answer to his question was, the Harpy&amp;rsquo;s Eagle. Ricardo smiled and I returned it. But we weren&amp;rsquo;t kidding each other. The bird watching experience here in the Amazon was supposed to be bit different, and by different, I mean very challenging when compared to what I had experienced up until then, back home.</description>
+    </item>
+    
+    <item>
+      <title>We still have not seen the Tapir</title>
+      <link>https://yatramaya.hoatz.in/experiences/we-still-have-not-seen-the-tapir.html</link>
+      <pubDate>Sun, 29 Jan 2023 05:11:21 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/we-still-have-not-seen-the-tapir.html</guid>
+      <description>At 4am, I could see the faint light in the other tents. Braving the cold and in complete darkness with the help of a flash-light, I managed to crawl out of mine. The moonless sky shone with a million stars. Wearing our rubber boots our team of four started walking towards the forest. The cicadas seemed to cheer us on and follow us into the darkness as we moved in. The eerie ambience was complemented by a million other insects that were probably protesting as we walked through the maze of branches and roots.</description>
+    </item>
+    
+    <item>
+      <title>Anchorage to Seward</title>
+      <link>https://yatramaya.hoatz.in/experiences/anchorage-to-seward.html</link>
       <pubDate>Sun, 29 Jan 2023 05:03:21 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/countries/alaska.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/anchorage-to-seward.html</guid>
+      <description>There is something about trains that the moment someone mentions them, I get goosebumps; my heart starts racing and invariably. It is my wish to travel through some of the historical routes across the world, some spanning across continents and some meandering through unbelievable landscapes. I am always wondering about the ingenuity of the engineers who imagined a railroad and made it a reality. I try to incorporate train journeys to cover parts of my travel wherever feasible and affordable.</description>
     </item>
     
     <item>
-      <title>Train</title>
-      <link>https://yatramaya.hoatz.in/types/train.html</link>
-      <pubDate>Sun, 29 Jan 2023 05:03:21 +0530</pubDate>
+      <title>Talkeetna : Alaskan Hinterland</title>
+      <link>https://yatramaya.hoatz.in/experiences/talkeetna-alaskan-hinterland.html</link>
+      <pubDate>Tue, 05 Oct 2021 03:25:04 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/types/train.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/talkeetna-alaskan-hinterland.html</guid>
+      <description>As I walked the barely asphalted road that led us from the well wooded section that closely guarded our hideout into what was the active and colourful part of the town, I started realizing why I liked this place so much. For one, it was unlike the rest of the United States. There was an authentic small-town feel to it. Not the sterile and templated small-town that one gets used to in the U.</description>
     </item>
     
     <item>
-      <title>January</title>
-      <link>https://yatramaya.hoatz.in/month/january.html</link>
+      <title>Turkish Bath at a Hamam, Istanbul</title>
+      <link>https://yatramaya.hoatz.in/experiences/hamam-at-istanbul-turkey.html</link>
+      <pubDate>Thu, 29 Jul 2021 19:55:03 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/hamam-at-istanbul-turkey.html</guid>
+      <description>After having spent two months backpacking and camping, the idea of a nice hot Turkish bath seemed most desirable. Although I did not have a first hand experience about a Hamam, having read a few blogs about it, I felt I was bold enough to give it a try. Having been to Istanbul and not trying the Hamam was not acceptable for me. I kept putting it off for the first couple of days, with certain inhibitions getting the better of my cravings for a hot bath.</description>
+    </item>
+    
+    <item>
+      <title>Staying in a cavehouse at Goreme, Cappadocia</title>
+      <link>https://yatramaya.hoatz.in/experiences/goreme-cappadocia-homestay.html</link>
+      <pubDate>Thu, 29 Jul 2021 19:32:07 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/goreme-cappadocia-homestay.html</guid>
+      <description>Goreme was a beautiful town in a valley beyond the vast, brown mountains and large smooth rocks that resembled endless mounds of mud. That morning, we were transferred to a mini-bus after an overnight journey in a comfortable, large bus. We had got used to the efficiency of this country, and the general goodness of people, so we only had to step out of the bus and step into the smaller bus, without having to fuss about our luggages, which were perfectly tagged and transferred promptly.</description>
+    </item>
+    
+    <item>
+      <title>Azaan at Sultanahmet, Istanbul</title>
+      <link>https://yatramaya.hoatz.in/experiences/azaan-at-sultanahmet-istanbul.html</link>
+      <pubDate>Thu, 29 Jul 2021 18:58:38 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/azaan-at-sultanahmet-istanbul.html</guid>
+      <description>Walking the crowded streets of Sultanahmet late evening, I was trying to negotiate a road crossing, just as a tram passed the street. The wind was chill yet filled with the aroma of the food from the roadside restaurants. Just then, I heard the most melodious tune somewhere far that made me freeze. I just stood there mesmerized, holding on to every single sound that came out from this singer. The words &amp;ldquo;Allahu Akhbar&amp;rdquo;, probably heard several times in my lifetime, had never before sounded so beautiful, so profound.</description>
+    </item>
+    
+    <item>
+      <title>A walk through Sinharaja Forest Reserve, Sri Lanka</title>
+      <link>https://yatramaya.hoatz.in/experiences/sinharaja-forest-reserve-srilanka.html</link>
       <pubDate>Wed, 14 Jul 2021 19:33:32 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/month/january.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/sinharaja-forest-reserve-srilanka.html</guid>
+      <description>I had imagined this tear-drop-shaped island country always to have been green; a green dot floating in the endless blue waters of the mighty Indian Ocean. I would like to believe that it was once covered with dense impenetrable tropical rainforests, with innumerable waterfalls and countless streams. It was perhaps my effort to recreate this lost experience, when I chose trekking through the Sinharaja Forest Reserve as one of my first experiences in Sri Lanka.</description>
     </item>
     
     <item>
-      <title>Sri Lanka</title>
-      <link>https://yatramaya.hoatz.in/countries/sri-lanka.html</link>
-      <pubDate>Wed, 14 Jul 2021 19:33:32 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/sri-lanka.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Boat</title>
-      <link>https://yatramaya.hoatz.in/types/boat.html</link>
+      <title>Glacier Tour, Seward, Alaska</title>
+      <link>https://yatramaya.hoatz.in/experiences/glacier-tour-seward.html</link>
       <pubDate>Mon, 28 Jun 2021 12:22:51 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/types/boat.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/glacier-tour-seward.html</guid>
+      <description>A bald eagle swooped in very close to our boat as we set off. The sun was struggling to shine through the dense grey clouds that threatened to pour down anytime. To be sailing off into the icy cold waters of the Pacific, with limited visibility, in the hope of seeing some glaciers, started to seem a bit ambitious. The misty cold morning confined most of us to the cozy interior of the boat, with little to look forward to other than this bald eagle and a friendly otter that did not seem to mind either our boat or the ice cold water.</description>
     </item>
     
     <item>
-      <title>May</title>
-      <link>https://yatramaya.hoatz.in/month/may.html</link>
+      <title>Staying in a remote East Ugandan Village, Africa</title>
+      <link>https://yatramaya.hoatz.in/experiences/homestay-experience-bududa.html</link>
+      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/homestay-experience-bududa.html</guid>
+      <description>&amp;ldquo;Is it true that women are burnt alive for dowry in India?&amp;rdquo; Mai asked with fear in her eyes and a palm covering her mouth. She did not mean to offend me. The innocence in her voice and her genuine concern for her sisters in India made me offer a simple, plain answer. &amp;ldquo;Yes, it does happen even now in some villages&amp;rdquo; I tried to calm her down. &amp;ldquo;I heard that in India women have to pay dowry money?</description>
+    </item>
+    
+    <item>
+      <title>Whale Watching at Mirissa, Sri Lanka</title>
+      <link>https://yatramaya.hoatz.in/experiences/whale-watching-lanka.html</link>
+      <pubDate>Wed, 14 Oct 2020 17:13:01 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/whale-watching-lanka.html</guid>
+      <description>This was nothing close to what I had imagined. The boat was rather small. The waves were menacingly rough, and threatened to throw the boat off balance at the slightest opportunity. There were about 20 people on the boat, most of them in various stages of sea sickness. The lucky ones, like myself, who were miraculously unaffected by the rough sea, were on the deck with our eyes glued to the waters.</description>
+    </item>
+    
+    <item>
+      <title>Live Music Bar at Goreme, Cappadocia, Turkey</title>
+      <link>https://yatramaya.hoatz.in/experiences/live-music-bar-goreme.html</link>
+      <pubDate>Wed, 14 Oct 2020 16:57:03 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/live-music-bar-goreme.html</guid>
+      <description>The cold air was broken by the white trail of warm breath as I walked into the night. The bar was just a block away from where we stayed. The tables were only beginning to be occupied. We asked for a table for two, ordered some Raki that came with some soft bread and dips. The lights were dim and created a warm and cozy atmosphere. Everyone were dressed in party-wear, colourful, resplendent with makeup and jewellery.</description>
+    </item>
+    
+    <item>
+      <title>Words cannot describe vibes, Arambol, Goa</title>
+      <link>https://yatramaya.hoatz.in/experiences/return-to-arambol-goa.html</link>
+      <pubDate>Wed, 14 Oct 2020 16:57:03 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/return-to-arambol-goa.html</guid>
+      <description>On our very first trip to Goa, the mystical beach of Arambol was but a short two hour visit; an interlude between the many places we visited. Back then, it was sort of an insatiable hunger, perhaps greed even to &amp;ldquo;see it all&amp;rdquo;. It was a ride on a ramshackle rented bike from Vagator - where we were shacked up; an evening ride got us there just in time for a spectacular sunset at the Arambol beach.</description>
+    </item>
+    
+    <item>
+      <title>Camping next to Savage river, Denali National Park</title>
+      <link>https://yatramaya.hoatz.in/experiences/camping-at-savage-river.html</link>
+      <pubDate>Wed, 14 Oct 2020 10:32:42 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/camping-at-savage-river.html</guid>
+      <description>The weather was perfect when we entered Denali National Park. The sun was bright and our bus made a special stop on the way just for us to get a view of the majestic mountain Denali because it is not everyday that she presents herself in such glory. I have heard about the disappointment some people face when they spend two days at the National Park but fail to get a glimpse of the mountain.</description>
+    </item>
+    
+    <item>
+      <title>Denali at her raw best</title>
+      <link>https://yatramaya.hoatz.in/experiences/denali-at-her-raw-best.html</link>
+      <pubDate>Wed, 14 Oct 2020 10:17:00 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/denali-at-her-raw-best.html</guid>
+      <description>Sitting in the park bus, I felt as though we were on a private tour of Denali National Park, just 4 of us, and our guide cum driver, Nick. It was to be the last trip for the day. That afternoon the entire Denali range was covered by thick clouds, it had started to get dark. Our chances of spotting wildlife also diminished with the daylight. With the rain looming in the horizon, we almost had the entire park for ourselves.</description>
+    </item>
+    
+    <item>
+      <title>A Trek to Kuari Pass and Pangarchulla, Uttarakhand</title>
+      <link>https://yatramaya.hoatz.in/experiences/trek-to-kuari-pass-pangarchulla.html</link>
       <pubDate>Wed, 15 May 2019 19:32:50 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/month/may.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/trek-to-kuari-pass-pangarchulla.html</guid>
+      <description>My back was unaccustomed to the heavy load. It was more than a year since I had been on any serious multi-day hike. And, even though we had hired a couple of porters and a guide to carry the camping equipment and the cooking essentials, even the personal items that I had signed up to haul was seeming heavier than I had imagined. The moment I got out of the jeep and started walking through the narrow lanes of the village Dhak, two thoughts were on my mind.</description>
     </item>
     
     <item>
-      <title>Zanzibar</title>
-      <link>https://yatramaya.hoatz.in/countries/zanzibar.html</link>
+      <title>An unforgettable encounter with our closest cousin</title>
+      <link>https://yatramaya.hoatz.in/experiences/our-closest-cousin.html</link>
+      <pubDate>Sun, 03 Mar 2019 19:17:22 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/experiences/our-closest-cousin.html</guid>
+      <description>It was unmistakably the most beautiful place we would be staying in our entire trip. I could spend hours just looking at the mountains, and the rainforests and never cease to be amazed by their existence, being drawn into them further and further with every passing moment. I could be lost momentarily in mundane tasks like eating or washing clothes or fussing about the ants but the presence of the mountains constantly pulls me into a trance every now and then.</description>
+    </item>
+    
+    <item>
+      <title>A walk through Stone Town, Zanzibar</title>
+      <link>https://yatramaya.hoatz.in/experiences/stonetown-zanzibar.html</link>
       <pubDate>Tue, 02 Oct 2018 19:02:15 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/countries/zanzibar.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/experiences/stonetown-zanzibar.html</guid>
+      <description>Just outside, you find yourself in a typical African town, with people getting about their routine work. There is traffic, pollution, vehicles honking, hawkers selling everything from bread, fruits, vegetables, newspaper to bags, shoes, clothes and people haggling for a good bargain; burqa clad school girls gossiping in small groups, giggling, waiting for their bus; high school boys trying to look like grown up men, wearing their traditional cap and gown, but their their school bags giving them away.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://yatramaya.hoatz.in/about.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Andaman Forest Walk</title>
+      <link>https://yatramaya.hoatz.in/experiences/andaman-forest-walk.html</link>
+      <pubDate>Tue, 01 Apr 2014 12:31:29 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/about.html</guid>
-      <description>The Name What&amp;rsquo;s in a name?
-Yātrāmaya is made up of two words. Yātra and Māya. It is a coerced confluence of two rivers of thought, one where the material meets the mental and physical meets the philosophical.
-What&amp;rsquo;s in a name? Apparently, the universe itself!
-A tiny blue coloured speck of dust that seems to forever travel around and away from its star is what we call our home. Planet Earth, our mothership traces a new line around the Sun every second since its existence thus taking us along on this incredible journey that never started and never ends.</description>
+      <guid>https://yatramaya.hoatz.in/experiences/andaman-forest-walk.html</guid>
+      <description>Neil Island, being one of the smaller ones of the Andaman archipelago, is an inconspicuous dot in the vast blue waters of the mighty Indian Ocean. Here one gets the sensation of being &amp;lsquo;bound&amp;rsquo; or &amp;rsquo;limited&amp;rsquo; by the land area. Getting to experience both sunrise and sunset on the same day was something that I looked forward to on small islands and Neil had not disappointed me in that respect. In just a couple of days of arriving on Neil Island, I got the feeling that we had already explored everything there was worth exploring.</description>
     </item>
     
     <item>
-      <title>Explore</title>
-      <link>https://yatramaya.hoatz.in/explore.html</link>
+      <title>Pangs of a privileged soul</title>
+      <link>https://yatramaya.hoatz.in/about/privileged-soul.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/explore.html</guid>
-      <description></description>
+      <guid>https://yatramaya.hoatz.in/about/privileged-soul.html</guid>
+      <description>I sit down to work; My thoughts roam astray. I don’t seem to recollect what I set out to do. The work piles up; it is way past the deadlines. I keep making excuses; I keep extending the timeline. A proper estimate is impossible to give because I don’t know for sure how long this will go on. I am disturbed. I push myself to sit down and write a few lines at least.</description>
+    </item>
+    
+    <item>
+      <title>Unbelievable but true: How my travels taught me to cope with the lockdown</title>
+      <link>https://yatramaya.hoatz.in/about/what-travel-taught-me.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/about/what-travel-taught-me.html</guid>
+      <description>It was 2 a.m. I was woken up from my sleep by a numbing cold that crept up my left leg. I shivered despite the layers of warmth provided by my sleeping bag and my thermals. The air was still. Frost had formed on top of our tent. I turned to my side with great discomfort and tried to close my eyes to go back to sleep again. But the cold kept reminding me of the long night; the several hours of darkness and gloom before the sun would appear.</description>
     </item>
     
   </channel>
