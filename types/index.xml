@@ -6,7 +6,52 @@
     <description>Recent content in Types on Yātrāmaya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2023 07:54:34 +0530</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/types/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 17:02:59 +0530</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>City</title>
+      <link>https://yatramaya.hoatz.in/types/city.html</link>
+      <pubDate>Fri, 20 Oct 2023 17:02:59 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/city.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture</title>
+      <link>https://yatramaya.hoatz.in/types/culture.html</link>
+      <pubDate>Fri, 20 Oct 2023 17:02:59 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/culture.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://yatramaya.hoatz.in/types/people.html</link>
+      <pubDate>Fri, 20 Oct 2023 17:02:59 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/people.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roadtrip</title>
+      <link>https://yatramaya.hoatz.in/types/roadtrip.html</link>
+      <pubDate>Fri, 20 Oct 2023 17:00:59 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/roadtrip.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Train</title>
+      <link>https://yatramaya.hoatz.in/types/train.html</link>
+      <pubDate>Fri, 20 Oct 2023 17:00:59 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/train.html</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Beach</title>
       <link>https://yatramaya.hoatz.in/types/beach.html</link>
@@ -53,47 +98,11 @@
     </item>
     
     <item>
-      <title>Culture</title>
-      <link>https://yatramaya.hoatz.in/types/culture.html</link>
-      <pubDate>Mon, 06 Mar 2023 07:35:05 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/culture.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mountain</title>
       <link>https://yatramaya.hoatz.in/types/mountain.html</link>
       <pubDate>Mon, 06 Mar 2023 07:35:05 +0530</pubDate>
       
       <guid>https://yatramaya.hoatz.in/types/mountain.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>https://yatramaya.hoatz.in/types/people.html</link>
-      <pubDate>Mon, 06 Mar 2023 07:35:05 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/people.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roadtrip</title>
-      <link>https://yatramaya.hoatz.in/types/roadtrip.html</link>
-      <pubDate>Sun, 05 Mar 2023 06:07:37 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/roadtrip.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>City</title>
-      <link>https://yatramaya.hoatz.in/types/city.html</link>
-      <pubDate>Tue, 28 Feb 2023 05:15:17 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/city.html</guid>
       <description></description>
     </item>
     
@@ -130,15 +139,6 @@
       <pubDate>Sun, 29 Jan 2023 21:36:01 +0530</pubDate>
       
       <guid>https://yatramaya.hoatz.in/types/food.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Train</title>
-      <link>https://yatramaya.hoatz.in/types/train.html</link>
-      <pubDate>Sun, 29 Jan 2023 05:03:21 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/types/train.html</guid>
       <description></description>
     </item>
     

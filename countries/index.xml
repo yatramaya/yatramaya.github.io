@@ -6,13 +6,40 @@
     <description>Recent content in Countries on Yātrāmaya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2023 07:54:34 +0530</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/countries/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 17:02:59 +0530</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/countries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thailand</title>
+      <link>https://yatramaya.hoatz.in/countries/thailand.html</link>
+      <pubDate>Fri, 20 Oct 2023 17:02:59 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/countries/thailand.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bolivia</title>
+      <link>https://yatramaya.hoatz.in/countries/bolivia.html</link>
+      <pubDate>Fri, 20 Oct 2023 17:00:59 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/countries/bolivia.html</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>India</title>
       <link>https://yatramaya.hoatz.in/countries/india.html</link>
-      <pubDate>Fri, 28 Jul 2023 07:54:34 +0530</pubDate>
+      <pubDate>Fri, 20 Oct 2023 17:00:59 +0530</pubDate>
       
       <guid>https://yatramaya.hoatz.in/countries/india.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenya</title>
+      <link>https://yatramaya.hoatz.in/countries/kenya.html</link>
+      <pubDate>Fri, 20 Oct 2023 17:00:59 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/countries/kenya.html</guid>
       <description></description>
     </item>
     
@@ -35,15 +62,6 @@
     </item>
     
     <item>
-      <title>Kenya</title>
-      <link>https://yatramaya.hoatz.in/countries/kenya.html</link>
-      <pubDate>Sun, 05 Mar 2023 06:07:37 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/kenya.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Uganda</title>
       <link>https://yatramaya.hoatz.in/countries/uganda.html</link>
       <pubDate>Sun, 05 Mar 2023 06:07:37 +0530</pubDate>
@@ -58,15 +76,6 @@
       <pubDate>Tue, 28 Feb 2023 05:15:17 +0530</pubDate>
       
       <guid>https://yatramaya.hoatz.in/countries/peru.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bolivia</title>
-      <link>https://yatramaya.hoatz.in/countries/bolivia.html</link>
-      <pubDate>Wed, 01 Feb 2023 10:59:40 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/bolivia.html</guid>
       <description></description>
     </item>
     
@@ -118,7 +127,7 @@
     <item>
       <title>Sri Lanka</title>
       <link>https://yatramaya.hoatz.in/countries/sri-lanka.html</link>
-      <pubDate>Wed, 14 Jul 2021 19:33:32 +0530</pubDate>
+      <pubDate>Sat, 24 Jul 2021 20:23:18 +0530</pubDate>
       
       <guid>https://yatramaya.hoatz.in/countries/sri-lanka.html</guid>
       <description></description>

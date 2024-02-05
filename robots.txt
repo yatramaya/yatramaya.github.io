@@ -1,43 +1,89 @@
 User-agent: *
 
 
+Disallow: /year/2015.html
+
+Disallow: /continents/asia.html
+
+Disallow: /types/city.html
+
+Disallow: /continents.html
+
+Disallow: /countries.html
+
+Disallow: /types/culture.html
+
+Disallow: /duration.html
+
+Disallow: /experiences.html
+
+Disallow: /experiences/exploring-chiang-mai-thailand.html
+
+Disallow: /duration/half-day.html
+
+Disallow: /
+
+Disallow: /medium.html
+
+Disallow: /month.html
+
+Disallow: /types/people.html
+
+Disallow: /medium/photologue.html
+
+Disallow: /month/september.html
+
+Disallow: /countries/thailand.html
+
+Disallow: /types.html
+
+Disallow: /year.html
+
+Disallow: /year/2017.html
+
+Disallow: /year/2018.html
+
+Disallow: /year/2019.html
+
+Disallow: /experiences/mombasa-to-nairobi.html
+
+Disallow: /continents/africa.html
+
+Disallow: /month/august.html
+
+Disallow: /countries/bolivia.html
+
+Disallow: /experiences/descending-the-himalayas-heritage-toy-train.html
+
+Disallow: /experiences/bus-ride-to-copacabana.html
+
+Disallow: /experiences/high-altitude-capital-city-la-paz.html
+
+Disallow: /countries/india.html
+
+Disallow: /countries/kenya.html
+
+Disallow: /month/march.html
+
+Disallow: /month/october.html
+
+Disallow: /types/roadtrip.html
+
+Disallow: /continents/south-america.html
+
+Disallow: /types/train.html
+
 Disallow: /year/2014.html
 
 Disallow: /experiences/andaman-stargazing.html
 
 Disallow: /month/april.html
 
-Disallow: /continents/asia.html
-
 Disallow: /types/beach.html
-
-Disallow: /continents.html
-
-Disallow: /countries.html
-
-Disallow: /duration.html
 
 Disallow: /medium/essay.html
 
-Disallow: /experiences.html
-
-Disallow: /duration/half-day.html
-
-Disallow: /
-
-Disallow: /countries/india.html
-
-Disallow: /medium.html
-
-Disallow: /month.html
-
 Disallow: /types/nature.html
-
-Disallow: /types.html
-
-Disallow: /year.html
-
-Disallow: /year/2018.html
 
 Disallow: /experiences/dead-sea-worlds-largest-outdoor-spa.html
 
@@ -46,8 +92,6 @@ Disallow: /countries/jordan.html
 Disallow: /duration/multi-day.html
 
 Disallow: /continents/north-america.html
-
-Disallow: /month/october.html
 
 Disallow: /countries/united-states-of-america.html
 
@@ -75,31 +119,15 @@ Disallow: /types/wildlife.html
 
 Disallow: /year/2008.html
 
-Disallow: /types/culture.html
-
 Disallow: /experiences/keylong-a-few-days-before-cut-off.html
 
 Disallow: /types/mountain.html
 
-Disallow: /types/people.html
-
-Disallow: /month/september.html
-
-Disallow: /continents/africa.html
-
-Disallow: /countries/kenya.html
-
 Disallow: /experiences/land-border-crossing-from-kenya-to-uganda.html
-
-Disallow: /types/roadtrip.html
 
 Disallow: /countries/uganda.html
 
 Disallow: /experiences/walking-the-maara-with-maasai.html
-
-Disallow: /year/2019.html
-
-Disallow: /types/city.html
 
 Disallow: /experiences/getting-stuck-at-tumbes.html
 
@@ -109,25 +137,17 @@ Disallow: /types/market.html
 
 Disallow: /countries/peru.html
 
-Disallow: /continents/south-america.html
-
 Disallow: /types/river.html
 
 Disallow: /experiences/the-amazon-and-its-tributaries.html
 
 Disallow: /experiences/homes-on-stilts-in-the-amazon.html
 
-Disallow: /year/2017.html
-
 Disallow: /experiences/a-short-trek-to-a-lake-in-the-sky.html
 
 Disallow: /experiences/bryce-a-living-planetarium.html
 
 Disallow: /experiences/manali-strangers-meet-like-friends.html
-
-Disallow: /month/august.html
-
-Disallow: /countries/bolivia.html
 
 Disallow: /experiences/amazonian-community-of-san-jose-de-uchupiamonas.html
 
@@ -155,9 +175,9 @@ Disallow: /experiences/the-whirling-dervishes-of-turkey.html
 
 Disallow: /countries/turkey.html
 
-Disallow: /types/food.html
+Disallow: /experiences/indigo-dyeing-phrae-thailand.html
 
-Disallow: /month/march.html
+Disallow: /types/food.html
 
 Disallow: /countries/tanzania.html
 
@@ -205,9 +225,9 @@ Disallow: /countries/alaska.html
 
 Disallow: /experiences/anchorage-to-seward.html
 
-Disallow: /types/train.html
-
 Disallow: /experiences/talkeetna-alaskan-hinterland.html
+
+Disallow: /experiences/walking-the-wadi-rum-jordan.html
 
 Disallow: /experiences/hamam-at-istanbul-turkey.html
 
@@ -215,15 +235,21 @@ Disallow: /experiences/goreme-cappadocia-homestay.html
 
 Disallow: /experiences/azaan-at-sultanahmet-istanbul.html
 
-Disallow: /experiences/sinharaja-forest-reserve-srilanka.html
+Disallow: /experiences/bentota-to-colombo-train-srilanka.html
 
 Disallow: /month/january.html
 
 Disallow: /countries/sri-lanka.html
 
+Disallow: /experiences/sinharaja-forest-reserve-srilanka.html
+
 Disallow: /types/boat.html
 
 Disallow: /experiences/glacier-tour-seward.html
+
+Disallow: /experiences/entire-village-finery.html
+
+Disallow: /experiences/wildlife-viewing-denali.html
 
 Disallow: /experiences/homestay-experience-bududa.html
 
